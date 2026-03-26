@@ -80,7 +80,6 @@ def rag_chat(graph):
 
 if __name__ == "__main__":
     g = Graph()
-    print("Loading Graph + Alignment Layer")
     if os.path.exists(INFERRED_GRAPH_PATH):
         g.parse(INFERRED_GRAPH_PATH, format="xml")
     if os.path.exists(ALIGNMENT_GRAPH_PATH):
