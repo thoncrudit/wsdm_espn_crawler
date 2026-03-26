@@ -1,0 +1,36 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix nba: <http://example.org/nba/> .
+
+# --- Ontology Declaration ---
+nba:NBAOntology a owl:Ontology ;
+    rdfs:label "ESPN NBA Knowledge Graph Ontology" ;
+    rdfs:comment "An ontology defining players, teams, and articles from ESPN NBA news." .
+
+# --- Classes ---
+nba:Entity a owl:Class ;
+    rdfs:label "General Entity" ;
+    rdfs:comment "A generic entity extracted from text." .
+
+nba:Player a owl:Class ;
+    rdfs:subClassOf nba:Entity ;
+    rdfs:label "Basketball Player" .
+
+nba:Team a owl:Class ;
+    rdfs:subClassOf nba:Entity ;
+    rdfs:label "Basketball Team" .
+
+nba:Location a owl:Class ;
+    rdfs:subClassOf nba:Entity ;
+    rdfs:label "Geographic Location" .
+
+nba:Article a owl:Class ;
+    rdfs:label "News Article" .
+
+# --- Properties ---
+nba:mentions a owl:ObjectProperty ;
+    rdfs:domain nba:Article ;
+    rdfs:range nba:Entity ;
+    rdfs:label "mentions" ;
+    rdfs:comment "Links a news article to an entity mentioned within the text." .

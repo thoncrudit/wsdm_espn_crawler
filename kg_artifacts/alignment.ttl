@@ -1,0 +1,1962 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.org/nba/ABA> owl:sameAs <http://www.wikidata.org/entity/Q202162> .
+
+<http://example.org/nba/ABC> owl:sameAs <http://www.wikidata.org/entity/Q169889> .
+
+<http://example.org/nba/ACL> owl:sameAs <http://www.wikidata.org/entity/Q611127> .
+
+<http://example.org/nba/AJGreen> owl:sameAs <http://www.wikidata.org/entity/Q85738924> .
+
+<http://example.org/nba/APG> owl:sameAs <http://www.wikidata.org/entity/Q5656888> .
+
+<http://example.org/nba/ATL> owl:sameAs <http://www.wikidata.org/entity/Q23556> .
+
+<http://example.org/nba/AaronGordon> owl:sameAs <http://www.wikidata.org/entity/Q100316495> .
+
+<http://example.org/nba/AaronNesmith> owl:sameAs <http://www.wikidata.org/entity/Q82831609> .
+
+<http://example.org/nba/AceBailey> owl:sameAs <http://www.wikidata.org/entity/Q123560799> .
+
+<http://example.org/nba/Achilles> owl:sameAs <http://www.wikidata.org/entity/Q18086783> .
+
+<http://example.org/nba/AdamSilver> owl:sameAs <http://www.wikidata.org/entity/Q4679786> .
+
+<http://example.org/nba/Adams> owl:sameAs <http://www.wikidata.org/entity/Q351735> .
+
+<http://example.org/nba/Adebayo> owl:sameAs <http://www.wikidata.org/entity/Q4681466> .
+
+<http://example.org/nba/AdrianWojnarowski> owl:sameAs <http://www.wikidata.org/entity/Q4685441> .
+
+<http://example.org/nba/AjayMitchell> owl:sameAs <http://www.wikidata.org/entity/Q105925605> .
+
+<http://example.org/nba/AlHorford> owl:sameAs <http://www.wikidata.org/entity/Q521931> .
+
+<http://example.org/nba/AlexCaruso> owl:sameAs <http://www.wikidata.org/entity/Q27662581> .
+
+<http://example.org/nba/AlexSarr> owl:sameAs <http://www.wikidata.org/entity/Q107056162> .
+
+<http://example.org/nba/AlexanderWalker> owl:sameAs <http://www.wikidata.org/entity/Q113807610> .
+
+<http://example.org/nba/AllNBA> owl:sameAs <http://www.wikidata.org/entity/Q674359> .
+
+<http://example.org/nba/AllRookie> owl:sameAs <http://www.wikidata.org/entity/Q1418009> .
+
+<http://example.org/nba/AllStar> owl:sameAs <http://www.wikidata.org/entity/Q137341> .
+
+<http://example.org/nba/AllStarWeekend> owl:sameAs <http://www.wikidata.org/entity/Q58815128> .
+
+<http://example.org/nba/Allen> owl:sameAs <http://www.wikidata.org/entity/Q2648323> .
+
+<http://example.org/nba/AllenIverson> owl:sameAs <http://www.wikidata.org/entity/Q190094> .
+
+<http://example.org/nba/AlonzoMourning> owl:sameAs <http://www.wikidata.org/entity/Q310968> .
+
+<http://example.org/nba/AlperenSengun> owl:sameAs <http://www.wikidata.org/entity/Q66133404> .
+
+<http://example.org/nba/Alvarado> owl:sameAs <http://www.wikidata.org/entity/Q5671305> .
+
+<http://example.org/nba/Amazon> owl:sameAs <http://www.wikidata.org/entity/Q3884> .
+
+<http://example.org/nba/AmenThompson> owl:sameAs <http://www.wikidata.org/entity/Q114413486> .
+
+<http://example.org/nba/AmirCoffey> owl:sameAs <http://www.wikidata.org/entity/Q33113645> .
+
+<http://example.org/nba/Anderson> owl:sameAs <http://www.wikidata.org/entity/Q1848748> .
+
+<http://example.org/nba/AndreDrummond> owl:sameAs <http://www.wikidata.org/entity/Q493115> .
+
+<http://example.org/nba/AndreiKirilenko> owl:sameAs <http://www.wikidata.org/entity/Q294788> .
+
+<http://example.org/nba/AndrewNembhard> owl:sameAs <http://www.wikidata.org/entity/Q67609172> .
+
+<http://example.org/nba/AndrewWiggins> owl:sameAs <http://www.wikidata.org/entity/Q135105470> .
+
+<http://example.org/nba/Andscape> owl:sameAs <http://www.wikidata.org/entity/Q28441318> .
+
+<http://example.org/nba/AnferneeSimons> owl:sameAs <http://www.wikidata.org/entity/Q49692513> .
+
+<http://example.org/nba/Antetokounmpo> owl:sameAs <http://www.wikidata.org/entity/Q21500894> .
+
+<http://example.org/nba/Anthony> owl:sameAs <http://www.wikidata.org/entity/Q12241622> .
+
+<http://example.org/nba/AnthonyBlack> owl:sameAs <http://www.wikidata.org/entity/Q112514137> .
+
+<http://example.org/nba/AnthonyDavis> owl:sameAs <http://www.wikidata.org/entity/Q119856924> .
+
+<http://example.org/nba/AnthonyEdwards> owl:sameAs <http://www.wikidata.org/entity/Q314924> .
+
+<http://example.org/nba/AnthonySlater> owl:sameAs <http://www.wikidata.org/entity/Q110274988> .
+
+<http://example.org/nba/Arizona> owl:sameAs <http://www.wikidata.org/entity/Q816> .
+
+<http://example.org/nba/Arkansas> owl:sameAs <http://www.wikidata.org/entity/Q1612> .
+
+<http://example.org/nba/ArturasKarnisovas> owl:sameAs <http://www.wikidata.org/entity/Q716025> .
+
+<http://example.org/nba/Aspiration> owl:sameAs <http://www.wikidata.org/entity/Q1300785> .
+
+<http://example.org/nba/Association> owl:sameAs <http://www.wikidata.org/entity/Q2736> .
+
+<http://example.org/nba/Athletic> owl:sameAs <http://www.wikidata.org/entity/Q542> .
+
+<http://example.org/nba/Athletics> owl:sameAs <http://www.wikidata.org/entity/Q542> .
+
+<http://example.org/nba/Atlanta> owl:sameAs <http://www.wikidata.org/entity/Q23556> .
+
+<http://example.org/nba/AtlantaHawks> owl:sameAs <http://www.wikidata.org/entity/Q159893> .
+
+<http://example.org/nba/Ausar> owl:sameAs <http://www.wikidata.org/entity/Q5022089> .
+
+<http://example.org/nba/AusarThompson> owl:sameAs <http://www.wikidata.org/entity/Q114433117> .
+
+<http://example.org/nba/AustinReaves> owl:sameAs <http://www.wikidata.org/entity/Q100909225> .
+
+<http://example.org/nba/Avdija> owl:sameAs <http://www.wikidata.org/entity/Q63738136> .
+
+<http://example.org/nba/AyoDosunmu> owl:sameAs <http://www.wikidata.org/entity/Q54861294> .
+
+<http://example.org/nba/Ayton> owl:sameAs <http://www.wikidata.org/entity/Q113128398> .
+
+<http://example.org/nba/BKN> owl:sameAs <http://www.wikidata.org/entity/Q55009181> .
+
+<http://example.org/nba/BOS> owl:sameAs <http://www.wikidata.org/entity/Q9303> .
+
+<http://example.org/nba/BPI> owl:sameAs <http://www.wikidata.org/entity/Q2901506> .
+
+<http://example.org/nba/Bagley> owl:sameAs <http://www.wikidata.org/entity/Q16479713> .
+
+<http://example.org/nba/Bailey> owl:sameAs <http://www.wikidata.org/entity/Q2658113> .
+
+<http://example.org/nba/Ball> owl:sameAs <http://www.wikidata.org/entity/Q805107> .
+
+<http://example.org/nba/BamAdebayo> owl:sameAs <http://www.wikidata.org/entity/Q21620668> .
+
+<http://example.org/nba/Banchero> owl:sameAs <http://www.wikidata.org/entity/Q25114814> .
+
+<http://example.org/nba/Bane> owl:sameAs <http://www.wikidata.org/entity/Q37312990> .
+
+<http://example.org/nba/Barnes> owl:sameAs <http://www.wikidata.org/entity/Q2658970> .
+
+<http://example.org/nba/Barrett> owl:sameAs <http://www.wikidata.org/entity/Q27220872> .
+
+<http://example.org/nba/BasketballReference> owl:sameAs <http://www.wikidata.org/entity/Q22235911> .
+
+<http://example.org/nba/Batum> owl:sameAs <http://www.wikidata.org/entity/Q104592320> .
+
+<http://example.org/nba/Beal> owl:sameAs <http://www.wikidata.org/entity/Q16479625> .
+
+<http://example.org/nba/Beantown> owl:sameAs <http://www.wikidata.org/entity/Q100> .
+
+<http://example.org/nba/Beasley> owl:sameAs <http://www.wikidata.org/entity/Q20995726> .
+
+<http://example.org/nba/BenSimmons> owl:sameAs <http://www.wikidata.org/entity/Q112454648> .
+
+<http://example.org/nba/BennedictMathurin> owl:sameAs <http://www.wikidata.org/entity/Q105013647> .
+
+<http://example.org/nba/Berlin> owl:sameAs <http://www.wikidata.org/entity/Q64> .
+
+<http://example.org/nba/Bey> owl:sameAs <http://www.wikidata.org/entity/Q181217> .
+
+<http://example.org/nba/BillRussell> owl:sameAs <http://www.wikidata.org/entity/Q242185> .
+
+<http://example.org/nba/BillyDonovan> owl:sameAs <http://www.wikidata.org/entity/Q100981811> .
+
+<http://example.org/nba/Black> owl:sameAs <http://www.wikidata.org/entity/Q2662465> .
+
+<http://example.org/nba/BlakeWesley> owl:sameAs <http://www.wikidata.org/entity/Q110888255> .
+
+<http://example.org/nba/Blazers> owl:sameAs <http://www.wikidata.org/entity/Q134479> .
+
+<http://example.org/nba/BobbyMarks> owl:sameAs <http://www.wikidata.org/entity/Q23760830> .
+
+<http://example.org/nba/BobbyPortis> owl:sameAs <http://www.wikidata.org/entity/Q19667582> .
+
+<http://example.org/nba/Bobcats> owl:sameAs <http://www.wikidata.org/entity/Q4391894> .
+
+<http://example.org/nba/BogdanBogdanovic> owl:sameAs <http://www.wikidata.org/entity/Q700592> .
+
+<http://example.org/nba/BonesHyland> owl:sameAs <http://www.wikidata.org/entity/Q100807991> .
+
+<http://example.org/nba/Booker> owl:sameAs <http://www.wikidata.org/entity/Q114614211> .
+
+<http://example.org/nba/Boston> owl:sameAs <http://www.wikidata.org/entity/Q100> .
+
+<http://example.org/nba/BostonCeltics> owl:sameAs <http://www.wikidata.org/entity/Q131371> .
+
+<http://example.org/nba/BradMiller> owl:sameAs <http://www.wikidata.org/entity/Q896845> .
+
+<http://example.org/nba/BradleyBeal> owl:sameAs <http://www.wikidata.org/entity/Q897000> .
+
+<http://example.org/nba/BrandinPodziemski> owl:sameAs <http://www.wikidata.org/entity/Q116360316> .
+
+<http://example.org/nba/BrandonClarke> owl:sameAs <http://www.wikidata.org/entity/Q56809232> .
+
+<http://example.org/nba/BrandonIngram> owl:sameAs <http://www.wikidata.org/entity/Q90582634> .
+
+<http://example.org/nba/BrandonMiller> owl:sameAs <http://www.wikidata.org/entity/Q113331236> .
+
+<http://example.org/nba/Braun> owl:sameAs <http://www.wikidata.org/entity/Q631220> .
+
+<http://example.org/nba/BrianWindhorst> owl:sameAs <http://www.wikidata.org/entity/Q4965665> .
+
+<http://example.org/nba/Bricktown> owl:sameAs <http://www.wikidata.org/entity/Q112864203> .
+
+<http://example.org/nba/Bridges> owl:sameAs <http://www.wikidata.org/entity/Q12280> .
+
+<http://example.org/nba/BrookLopez> owl:sameAs <http://www.wikidata.org/entity/Q460131> .
+
+<http://example.org/nba/Brooklyn> owl:sameAs <http://www.wikidata.org/entity/Q18419> .
+
+<http://example.org/nba/BrooklynNets> owl:sameAs <http://www.wikidata.org/entity/Q572134> .
+
+<http://example.org/nba/Brooks> owl:sameAs <http://www.wikidata.org/entity/Q1354011> .
+
+<http://example.org/nba/Brown> owl:sameAs <http://www.wikidata.org/entity/Q13421990> .
+
+<http://example.org/nba/BruceBrown> owl:sameAs <http://www.wikidata.org/entity/Q123857257> .
+
+<http://example.org/nba/Brunson> owl:sameAs <http://www.wikidata.org/entity/Q21487937> .
+
+<http://example.org/nba/Bryant> owl:sameAs <http://www.wikidata.org/entity/Q13552870> .
+
+<http://example.org/nba/BubCarrington> owl:sameAs <http://www.wikidata.org/entity/Q123532991> .
+
+<http://example.org/nba/Bucks> owl:sameAs <http://www.wikidata.org/entity/Q23229> .
+
+<http://example.org/nba/BuddyHield> owl:sameAs <http://www.wikidata.org/entity/Q19663167> .
+
+<http://example.org/nba/Bulls> owl:sameAs <http://www.wikidata.org/entity/Q128109> .
+
+<http://example.org/nba/Butler> owl:sameAs <http://www.wikidata.org/entity/Q2664624> .
+
+<http://example.org/nba/Buzelis> owl:sameAs <http://www.wikidata.org/entity/Q121141252> .
+
+<http://example.org/nba/CBA> owl:sameAs <http://www.wikidata.org/entity/Q942582> .
+
+<http://example.org/nba/CHA> owl:sameAs <http://www.wikidata.org/entity/Q657> .
+
+<http://example.org/nba/CHI> owl:sameAs <http://www.wikidata.org/entity/Q1297> .
+
+<http://example.org/nba/CJMcCollum> owl:sameAs <http://www.wikidata.org/entity/Q5006560> .
+
+<http://example.org/nba/CLE> owl:sameAs <http://www.wikidata.org/entity/Q657415> .
+
+<http://example.org/nba/COVID19> owl:sameAs <http://www.wikidata.org/entity/Q84263196> .
+
+<http://example.org/nba/CadeCunningham> owl:sameAs <http://www.wikidata.org/entity/Q65030944> .
+
+<http://example.org/nba/Cain> owl:sameAs <http://www.wikidata.org/entity/Q28836897> .
+
+<http://example.org/nba/California> owl:sameAs <http://www.wikidata.org/entity/Q99> .
+
+<http://example.org/nba/Calipari> owl:sameAs <http://www.wikidata.org/entity/Q104851206> .
+
+<http://example.org/nba/CamJohnson> owl:sameAs <http://www.wikidata.org/entity/Q110245509> .
+
+<http://example.org/nba/CamSpencer> owl:sameAs <http://www.wikidata.org/entity/Q100925863> .
+
+<http://example.org/nba/CamThomas> owl:sameAs <http://www.wikidata.org/entity/Q5024870> .
+
+<http://example.org/nba/CamWhitmore> owl:sameAs <http://www.wikidata.org/entity/Q113240286> .
+
+<http://example.org/nba/Camara> owl:sameAs <http://www.wikidata.org/entity/Q16865329> .
+
+<http://example.org/nba/CameronJohnson> owl:sameAs <http://www.wikidata.org/entity/Q100983209> .
+
+<http://example.org/nba/Capela> owl:sameAs <http://www.wikidata.org/entity/Q37489125> .
+
+<http://example.org/nba/CarisLeVert> owl:sameAs <http://www.wikidata.org/entity/Q16228087> .
+
+<http://example.org/nba/Carlisle> owl:sameAs <http://www.wikidata.org/entity/Q192896> .
+
+<http://example.org/nba/CarmeloAnthony> owl:sameAs <http://www.wikidata.org/entity/Q129041> .
+
+<http://example.org/nba/Carter> owl:sameAs <http://www.wikidata.org/entity/Q16101731> .
+
+<http://example.org/nba/CarterBryant> owl:sameAs <http://www.wikidata.org/entity/Q125030310> .
+
+<http://example.org/nba/Caruso> owl:sameAs <http://www.wikidata.org/entity/Q15123615> .
+
+<http://example.org/nba/CasonWallace> owl:sameAs <http://www.wikidata.org/entity/Q114414145> .
+
+<http://example.org/nba/Castle> owl:sameAs <http://www.wikidata.org/entity/Q23413> .
+
+<http://example.org/nba/Cavaliers> owl:sameAs <http://www.wikidata.org/entity/Q162990> .
+
+<http://example.org/nba/Cavs> owl:sameAs <http://www.wikidata.org/entity/Q162990> .
+
+<http://example.org/nba/CedricCoward> owl:sameAs <http://www.wikidata.org/entity/Q131392043> .
+
+<http://example.org/nba/Celtics> owl:sameAs <http://www.wikidata.org/entity/Q131371> .
+
+<http://example.org/nba/Chamberlain> owl:sameAs <http://www.wikidata.org/entity/Q14917207> .
+
+<http://example.org/nba/Charania> owl:sameAs <http://www.wikidata.org/entity/Q37311856> .
+
+<http://example.org/nba/CharlesBarkley> owl:sameAs <http://www.wikidata.org/entity/Q192707> .
+
+<http://example.org/nba/CharlesLee> owl:sameAs <http://www.wikidata.org/entity/Q390992> .
+
+<http://example.org/nba/Charlotte> owl:sameAs <http://www.wikidata.org/entity/Q264002> .
+
+<http://example.org/nba/CharlotteHornets> owl:sameAs <http://www.wikidata.org/entity/Q163480> .
+
+<http://example.org/nba/ChaunceyBillups> owl:sameAs <http://www.wikidata.org/entity/Q298531> .
+
+<http://example.org/nba/ChetHolmgren> owl:sameAs <http://www.wikidata.org/entity/Q88234141> .
+
+<http://example.org/nba/Chicago> owl:sameAs <http://www.wikidata.org/entity/Q1297> .
+
+<http://example.org/nba/ChicagoBulls> owl:sameAs <http://www.wikidata.org/entity/Q128109> .
+
+<http://example.org/nba/China> owl:sameAs <http://www.wikidata.org/entity/Q148> .
+
+<http://example.org/nba/ChrisFinch> owl:sameAs <http://www.wikidata.org/entity/Q2964717> .
+
+<http://example.org/nba/ChrisPaul> owl:sameAs <http://www.wikidata.org/entity/Q100985124> .
+
+<http://example.org/nba/ChristianBraun> owl:sameAs <http://www.wikidata.org/entity/Q112517049> .
+
+<http://example.org/nba/Christie> owl:sameAs <http://www.wikidata.org/entity/Q13632220> .
+
+<http://example.org/nba/Cinderella> owl:sameAs <http://www.wikidata.org/entity/Q384023> .
+
+<http://example.org/nba/Clark> owl:sameAs <http://www.wikidata.org/entity/Q1119151> .
+
+<http://example.org/nba/Claxton> owl:sameAs <http://www.wikidata.org/entity/Q37464632> .
+
+<http://example.org/nba/Cleveland> owl:sameAs <http://www.wikidata.org/entity/Q37320> .
+
+<http://example.org/nba/ClevelandCavaliers> owl:sameAs <http://www.wikidata.org/entity/Q162990> .
+
+<http://example.org/nba/Clifford> owl:sameAs <http://www.wikidata.org/entity/Q16542374> .
+
+<http://example.org/nba/Clinching> owl:sameAs <http://www.wikidata.org/entity/Q1267228> .
+
+<http://example.org/nba/Clingan> owl:sameAs <http://www.wikidata.org/entity/Q37127742> .
+
+<http://example.org/nba/ClintCapela> owl:sameAs <http://www.wikidata.org/entity/Q2979330> .
+
+<http://example.org/nba/Clippers> owl:sameAs <http://www.wikidata.org/entity/Q29103411> .
+
+<http://example.org/nba/Clowney> owl:sameAs <http://www.wikidata.org/entity/Q56245375> .
+
+<http://example.org/nba/CobyWhite> owl:sameAs <http://www.wikidata.org/entity/Q58494697> .
+
+<http://example.org/nba/CodyWilliams> owl:sameAs <http://www.wikidata.org/entity/Q41705859> .
+
+<http://example.org/nba/ColeAnthony> owl:sameAs <http://www.wikidata.org/entity/Q58008659> .
+
+<http://example.org/nba/Collier> owl:sameAs <http://www.wikidata.org/entity/Q16865687> .
+
+<http://example.org/nba/CollinGillespie> owl:sameAs <http://www.wikidata.org/entity/Q52751104> .
+
+<http://example.org/nba/CollinMurrayBoyles> owl:sameAs <http://www.wikidata.org/entity/Q124788522> .
+
+<http://example.org/nba/CollinSexton> owl:sameAs <http://www.wikidata.org/entity/Q29044421> .
+
+<http://example.org/nba/Collins> owl:sameAs <http://www.wikidata.org/entity/Q1791084> .
+
+<http://example.org/nba/Comcast> owl:sameAs <http://www.wikidata.org/entity/Q1113804> .
+
+<http://example.org/nba/ComicCon> owl:sameAs <http://www.wikidata.org/entity/Q3070220> .
+
+<http://example.org/nba/Conley> owl:sameAs <http://www.wikidata.org/entity/Q21115353> .
+
+<http://example.org/nba/CooperFlagg> owl:sameAs <http://www.wikidata.org/entity/Q115492038> .
+
+<http://example.org/nba/CoreyKispert> owl:sameAs <http://www.wikidata.org/entity/Q79871145> .
+
+<http://example.org/nba/Coulibaly> owl:sameAs <http://www.wikidata.org/entity/Q1136954> .
+
+<http://example.org/nba/Coward> owl:sameAs <http://www.wikidata.org/entity/Q16865821> .
+
+<http://example.org/nba/Cunningham> owl:sameAs <http://www.wikidata.org/entity/Q7849873> .
+
+<http://example.org/nba/Curry> owl:sameAs <http://www.wikidata.org/entity/Q5195197> .
+
+<http://example.org/nba/DAL> owl:sameAs <http://www.wikidata.org/entity/Q39816> .
+
+<http://example.org/nba/DAngeloRussell> owl:sameAs <http://www.wikidata.org/entity/Q18749170> .
+
+<http://example.org/nba/DEN> owl:sameAs <http://www.wikidata.org/entity/Q35> .
+
+<http://example.org/nba/DET> owl:sameAs <http://www.wikidata.org/entity/Q12439> .
+
+<http://example.org/nba/DNP> owl:sameAs <http://www.wikidata.org/entity/Q1203605> .
+
+<http://example.org/nba/DPOY> owl:sameAs <http://www.wikidata.org/entity/Q845884> .
+
+<http://example.org/nba/Daigneault> owl:sameAs <http://www.wikidata.org/entity/Q112866147> .
+
+<http://example.org/nba/DalenTerry> owl:sameAs <http://www.wikidata.org/entity/Q106818489> .
+
+<http://example.org/nba/Dallas> owl:sameAs <http://www.wikidata.org/entity/Q16557> .
+
+<http://example.org/nba/DallasMavericks> owl:sameAs <http://www.wikidata.org/entity/Q132893> .
+
+<http://example.org/nba/DamianLillard> owl:sameAs <http://www.wikidata.org/entity/Q622308> .
+
+<http://example.org/nba/DanielGafford> owl:sameAs <http://www.wikidata.org/entity/Q55138460> .
+
+<http://example.org/nba/Daniels> owl:sameAs <http://www.wikidata.org/entity/Q16869404> .
+
+<http://example.org/nba/DanissJenkins> owl:sameAs <http://www.wikidata.org/entity/Q100831053> .
+
+<http://example.org/nba/DarioSaric> owl:sameAs <http://www.wikidata.org/entity/Q2526170> .
+
+<http://example.org/nba/DariusAcuffJr> owl:sameAs <http://www.wikidata.org/entity/Q130749172> .
+
+<http://example.org/nba/DariusGarland> owl:sameAs <http://www.wikidata.org/entity/Q53397350> .
+
+<http://example.org/nba/DarrellGriffith> owl:sameAs <http://www.wikidata.org/entity/Q1166588> .
+
+<http://example.org/nba/DarylMorey> owl:sameAs <http://www.wikidata.org/entity/Q5226214> .
+
+<http://example.org/nba/DaveMcMenamin> owl:sameAs <http://www.wikidata.org/entity/Q130221829> .
+
+<http://example.org/nba/DavidAdelman> owl:sameAs <http://www.wikidata.org/entity/Q13220995> .
+
+<http://example.org/nba/DavidRobinson> owl:sameAs <http://www.wikidata.org/entity/Q113181077> .
+
+<http://example.org/nba/DavidWesley> owl:sameAs <http://www.wikidata.org/entity/Q2735161> .
+
+<http://example.org/nba/DavionMitchell> owl:sameAs <http://www.wikidata.org/entity/Q100885338> .
+
+<http://example.org/nba/Davis> owl:sameAs <http://www.wikidata.org/entity/Q19365842> .
+
+<http://example.org/nba/DeAndreHunter> owl:sameAs <http://www.wikidata.org/entity/Q55356794> .
+
+<http://example.org/nba/DeMarDeRozan> owl:sameAs <http://www.wikidata.org/entity/Q456374> .
+
+<http://example.org/nba/DeRozan> owl:sameAs <http://www.wikidata.org/entity/Q37431329> .
+
+<http://example.org/nba/DeanWade> owl:sameAs <http://www.wikidata.org/entity/Q50879812> .
+
+<http://example.org/nba/DeandreAyton> owl:sameAs <http://www.wikidata.org/entity/Q22958459> .
+
+<http://example.org/nba/Defense> owl:sameAs <http://www.wikidata.org/entity/Q8473> .
+
+<http://example.org/nba/DefensivePlayer> owl:sameAs <http://www.wikidata.org/entity/Q845884> .
+
+<http://example.org/nba/DefensivePlayerof> owl:sameAs <http://www.wikidata.org/entity/Q845884> .
+
+<http://example.org/nba/DejounteMurray> owl:sameAs <http://www.wikidata.org/entity/Q24006188> .
+
+<http://example.org/nba/DeniAvdija> owl:sameAs <http://www.wikidata.org/entity/Q42302125> .
+
+<http://example.org/nba/DennisSchroder> owl:sameAs <http://www.wikidata.org/entity/Q10862660> .
+
+<http://example.org/nba/Denver> owl:sameAs <http://www.wikidata.org/entity/Q16554> .
+
+<http://example.org/nba/DenverNuggets> owl:sameAs <http://www.wikidata.org/entity/Q162954> .
+
+<http://example.org/nba/DereckLivelyII> owl:sameAs <http://www.wikidata.org/entity/Q111231195> .
+
+<http://example.org/nba/DerikQueen> owl:sameAs <http://www.wikidata.org/entity/Q124655262> .
+
+<http://example.org/nba/DerrickJonesJr> owl:sameAs <http://www.wikidata.org/entity/Q27048881> .
+
+<http://example.org/nba/DerrickRose> owl:sameAs <http://www.wikidata.org/entity/Q205326> .
+
+<http://example.org/nba/DerrickWhite> owl:sameAs <http://www.wikidata.org/entity/Q30122669> .
+
+<http://example.org/nba/DesmondBane> owl:sameAs <http://www.wikidata.org/entity/Q78170313> .
+
+<http://example.org/nba/Detroit> owl:sameAs <http://www.wikidata.org/entity/Q12439> .
+
+<http://example.org/nba/DetroitPistons> owl:sameAs <http://www.wikidata.org/entity/Q169661> .
+
+<http://example.org/nba/DevinBooker> owl:sameAs <http://www.wikidata.org/entity/Q20031362> .
+
+<http://example.org/nba/DevinVassell> owl:sameAs <http://www.wikidata.org/entity/Q82831692> .
+
+<http://example.org/nba/Dillingham> owl:sameAs <http://www.wikidata.org/entity/Q36975674> .
+
+<http://example.org/nba/DillonBrooks> owl:sameAs <http://www.wikidata.org/entity/Q23302754> .
+
+<http://example.org/nba/DirkNowitzki> owl:sameAs <http://www.wikidata.org/entity/Q44068> .
+
+<http://example.org/nba/Disney> owl:sameAs <http://www.wikidata.org/entity/Q7414> .
+
+<http://example.org/nba/DocRivers> owl:sameAs <http://www.wikidata.org/entity/Q352093> .
+
+<http://example.org/nba/Domantas> owl:sameAs <http://www.wikidata.org/entity/Q15806263> .
+
+<http://example.org/nba/DomantasSabonis> owl:sameAs <http://www.wikidata.org/entity/Q5289916> .
+
+<http://example.org/nba/Doncic> owl:sameAs <http://www.wikidata.org/entity/Q20518844> .
+
+<http://example.org/nba/DonovanClingan> owl:sameAs <http://www.wikidata.org/entity/Q117268111> .
+
+<http://example.org/nba/DonovanMitchell> owl:sameAs <http://www.wikidata.org/entity/Q114379793> .
+
+<http://example.org/nba/DorianFinneySmith> owl:sameAs <http://www.wikidata.org/entity/Q25757154> .
+
+<http://example.org/nba/Dort> owl:sameAs <http://www.wikidata.org/entity/Q26421> .
+
+<http://example.org/nba/Dosunmu> owl:sameAs <http://www.wikidata.org/entity/Q37231716> .
+
+<http://example.org/nba/DougChristie> owl:sameAs <http://www.wikidata.org/entity/Q100769607> .
+
+<http://example.org/nba/Download> owl:sameAs <http://www.wikidata.org/entity/Q7126717> .
+
+<http://example.org/nba/Draft> owl:sameAs <http://www.wikidata.org/entity/Q244777> .
+
+<http://example.org/nba/DraftKings> owl:sameAs <http://www.wikidata.org/entity/Q21189310> .
+
+<http://example.org/nba/DraymondGreen> owl:sameAs <http://www.wikidata.org/entity/Q2614593> .
+
+<http://example.org/nba/Drip> owl:sameAs <http://www.wikidata.org/entity/Q640448> .
+
+<http://example.org/nba/Duke> owl:sameAs <http://www.wikidata.org/entity/Q168751> .
+
+<http://example.org/nba/Dumars> owl:sameAs <http://www.wikidata.org/entity/Q20996110> .
+
+<http://example.org/nba/DuncanRobinson> owl:sameAs <http://www.wikidata.org/entity/Q126871150> .
+
+<http://example.org/nba/Durant> owl:sameAs <http://www.wikidata.org/entity/Q16869728> .
+
+<http://example.org/nba/Duren> owl:sameAs <http://www.wikidata.org/entity/Q12482140> .
+
+<http://example.org/nba/DwyaneWade> owl:sameAs <http://www.wikidata.org/entity/Q31683> .
+
+<http://example.org/nba/DylanHarper> owl:sameAs <http://www.wikidata.org/entity/Q120753257> .
+
+<http://example.org/nba/DysonDaniels> owl:sameAs <http://www.wikidata.org/entity/Q107308380> .
+
+<http://example.org/nba/ESPN> owl:sameAs <http://www.wikidata.org/entity/Q217776> .
+
+<http://example.org/nba/ESPNBET> owl:sameAs <http://www.wikidata.org/entity/Q128987913> .
+
+<http://example.org/nba/ESPNBet> owl:sameAs <http://www.wikidata.org/entity/Q128987913> .
+
+<http://example.org/nba/Eason> owl:sameAs <http://www.wikidata.org/entity/Q37469834> .
+
+<http://example.org/nba/EastCoach> owl:sameAs <http://www.wikidata.org/entity/Q10871009> .
+
+<http://example.org/nba/Eastern> owl:sameAs <http://www.wikidata.org/entity/Q6723> .
+
+<http://example.org/nba/EasternConference> owl:sameAs <http://www.wikidata.org/entity/Q238240> .
+
+<http://example.org/nba/EddieJones> owl:sameAs <http://www.wikidata.org/entity/Q3047282> .
+
+<http://example.org/nba/Edgecombe> owl:sameAs <http://www.wikidata.org/entity/Q110745910> .
+
+<http://example.org/nba/Editor> owl:sameAs <http://www.wikidata.org/entity/Q1607826> .
+
+<http://example.org/nba/Edwards> owl:sameAs <http://www.wikidata.org/entity/Q2691159> .
+
+<http://example.org/nba/EgorDemin> owl:sameAs <http://www.wikidata.org/entity/Q133300112> .
+
+<http://example.org/nba/Ellis> owl:sameAs <http://www.wikidata.org/entity/Q21452033> .
+
+<http://example.org/nba/Embiid> owl:sameAs <http://www.wikidata.org/entity/Q1941671> .
+
+<http://example.org/nba/EmekaOkafor> owl:sameAs <http://www.wikidata.org/entity/Q316258> .
+
+<http://example.org/nba/ErikSpoelstra> owl:sameAs <http://www.wikidata.org/entity/Q440324> .
+
+<http://example.org/nba/EuroBasket> owl:sameAs <http://www.wikidata.org/entity/Q3060570> .
+
+<http://example.org/nba/EvanMobley> owl:sameAs <http://www.wikidata.org/entity/Q64009534> .
+
+<http://example.org/nba/FGA> owl:sameAs <http://www.wikidata.org/entity/Q3744458> .
+
+<http://example.org/nba/FIFAWorldCup> owl:sameAs <http://www.wikidata.org/entity/Q19317> .
+
+<http://example.org/nba/Fears> owl:sameAs <http://www.wikidata.org/entity/Q126184309> .
+
+<http://example.org/nba/Fernandez> owl:sameAs <http://www.wikidata.org/entity/Q28912637> .
+
+<http://example.org/nba/Filipowski> owl:sameAs <http://www.wikidata.org/entity/Q28736118> .
+
+<http://example.org/nba/Finals> owl:sameAs <http://www.wikidata.org/entity/Q1366722> .
+
+<http://example.org/nba/Flagg> owl:sameAs <http://www.wikidata.org/entity/Q16869956> .
+
+<http://example.org/nba/Flom> owl:sameAs <http://www.wikidata.org/entity/Q5459994> .
+
+<http://example.org/nba/Florida> owl:sameAs <http://www.wikidata.org/entity/Q812> .
+
+<http://example.org/nba/Fox> owl:sameAs <http://www.wikidata.org/entity/Q166419> .
+
+<http://example.org/nba/France> owl:sameAs <http://www.wikidata.org/entity/Q142> .
+
+<http://example.org/nba/Frank> owl:sameAs <http://www.wikidata.org/entity/Q220546> .
+
+<http://example.org/nba/Franz> owl:sameAs <http://www.wikidata.org/entity/Q4925932> .
+
+<http://example.org/nba/FranzWagner> owl:sameAs <http://www.wikidata.org/entity/Q53394086> .
+
+<http://example.org/nba/FredVanVleet> owl:sameAs <http://www.wikidata.org/entity/Q16236628> .
+
+<http://example.org/nba/Frenchman> owl:sameAs <http://www.wikidata.org/entity/Q121842> .
+
+<http://example.org/nba/FrostBankCenter> owl:sameAs <http://www.wikidata.org/entity/Q298573> .
+
+<http://example.org/nba/GLeague> owl:sameAs <http://www.wikidata.org/entity/Q842793> .
+
+<http://example.org/nba/GSW> owl:sameAs <http://www.wikidata.org/entity/Q2140674> .
+
+<http://example.org/nba/GabeVincent> owl:sameAs <http://www.wikidata.org/entity/Q61989472> .
+
+<http://example.org/nba/GainbridgeFieldhouse> owl:sameAs <http://www.wikidata.org/entity/Q545007> .
+
+<http://example.org/nba/Garland> owl:sameAs <http://www.wikidata.org/entity/Q10661005> .
+
+<http://example.org/nba/Gary> owl:sameAs <http://www.wikidata.org/entity/Q1820274> .
+
+<http://example.org/nba/GaryHarris> owl:sameAs <http://www.wikidata.org/entity/Q103839836> .
+
+<http://example.org/nba/GaryPayton> owl:sameAs <http://www.wikidata.org/entity/Q309872> .
+
+<http://example.org/nba/GaryTrentJr> owl:sameAs <http://www.wikidata.org/entity/Q29045079> .
+
+<http://example.org/nba/George> owl:sameAs <http://www.wikidata.org/entity/Q15921732> .
+
+<http://example.org/nba/GeorgesNiang> owl:sameAs <http://www.wikidata.org/entity/Q17466552> .
+
+<http://example.org/nba/GiannisAntetokounmpo> owl:sameAs <http://www.wikidata.org/entity/Q38708266> .
+
+<http://example.org/nba/Giddey> owl:sameAs <http://www.wikidata.org/entity/Q108083214> .
+
+<http://example.org/nba/Gillespie> owl:sameAs <http://www.wikidata.org/entity/Q60756115> .
+
+<http://example.org/nba/Glass> owl:sameAs <http://www.wikidata.org/entity/Q16870200> .
+
+<http://example.org/nba/Gobert> owl:sameAs <http://www.wikidata.org/entity/Q21507371> .
+
+<http://example.org/nba/GogaBitadze> owl:sameAs <http://www.wikidata.org/entity/Q27926032> .
+
+<http://example.org/nba/GoldenState> owl:sameAs <http://www.wikidata.org/entity/Q99> .
+
+<http://example.org/nba/GoldenStateWarriors> owl:sameAs <http://www.wikidata.org/entity/Q157376> .
+
+<http://example.org/nba/Gonzaga> owl:sameAs <http://www.wikidata.org/entity/Q49317> .
+
+<http://example.org/nba/Gordon> owl:sameAs <http://www.wikidata.org/entity/Q18402571> .
+
+<http://example.org/nba/GradeyDick> owl:sameAs <http://www.wikidata.org/entity/Q112277896> .
+
+<http://example.org/nba/Grant> owl:sameAs <http://www.wikidata.org/entity/Q17864440> .
+
+<http://example.org/nba/GrantHill> owl:sameAs <http://www.wikidata.org/entity/Q311895> .
+
+<http://example.org/nba/GraysonAllen> owl:sameAs <http://www.wikidata.org/entity/Q19864618> .
+
+<http://example.org/nba/Green> owl:sameAs <http://www.wikidata.org/entity/Q2703137> .
+
+<http://example.org/nba/Grimes> owl:sameAs <http://www.wikidata.org/entity/Q16870314> .
+
+<http://example.org/nba/Grizzlies> owl:sameAs <http://www.wikidata.org/entity/Q3106580> .
+
+<http://example.org/nba/GuerschonYabusele> owl:sameAs <http://www.wikidata.org/entity/Q21294876> .
+
+<http://example.org/nba/HOU> owl:sameAs <http://www.wikidata.org/entity/Q3947> .
+
+<http://example.org/nba/Hachimura> owl:sameAs <http://www.wikidata.org/entity/Q47092459> .
+
+<http://example.org/nba/HakeemOlajuwon> owl:sameAs <http://www.wikidata.org/entity/Q273256> .
+
+<http://example.org/nba/Haliburton> owl:sameAs <http://www.wikidata.org/entity/Q113128225> .
+
+<http://example.org/nba/HallofFame> owl:sameAs <http://www.wikidata.org/entity/Q1046088> .
+
+<http://example.org/nba/Hardaway> owl:sameAs <http://www.wikidata.org/entity/Q21488343> .
+
+<http://example.org/nba/Harden> owl:sameAs <http://www.wikidata.org/entity/Q19158868> .
+
+<http://example.org/nba/Harper> owl:sameAs <http://www.wikidata.org/entity/Q1586017> .
+
+<http://example.org/nba/HarrisonBarnes> owl:sameAs <http://www.wikidata.org/entity/Q222851> .
+
+<http://example.org/nba/Hart> owl:sameAs <http://www.wikidata.org/entity/Q1587003> .
+
+<http://example.org/nba/Hartenstein> owl:sameAs <http://www.wikidata.org/entity/Q37493910> .
+
+<http://example.org/nba/Hawks> owl:sameAs <http://www.wikidata.org/entity/Q16870601> .
+
+<http://example.org/nba/Heat> owl:sameAs <http://www.wikidata.org/entity/Q2122052> .
+
+<http://example.org/nba/Henderson> owl:sameAs <http://www.wikidata.org/entity/Q2716369> .
+
+<http://example.org/nba/HerbertJones> owl:sameAs <http://www.wikidata.org/entity/Q5734745> .
+
+<http://example.org/nba/Herro> owl:sameAs <http://www.wikidata.org/entity/Q1117704> .
+
+<http://example.org/nba/Holmgren> owl:sameAs <http://www.wikidata.org/entity/Q1394128> .
+
+<http://example.org/nba/Horford> owl:sameAs <http://www.wikidata.org/entity/Q549048> .
+
+<http://example.org/nba/Hornets> owl:sameAs <http://www.wikidata.org/entity/Q134969> .
+
+<http://example.org/nba/Horst> owl:sameAs <http://www.wikidata.org/entity/Q381702> .
+
+<http://example.org/nba/Houston> owl:sameAs <http://www.wikidata.org/entity/Q1336196> .
+
+<http://example.org/nba/HoustonRockets> owl:sameAs <http://www.wikidata.org/entity/Q161345> .
+
+<http://example.org/nba/Huff> owl:sameAs <http://www.wikidata.org/entity/Q16870913> .
+
+<http://example.org/nba/Hunter> owl:sameAs <http://www.wikidata.org/entity/Q12020943> .
+
+<http://example.org/nba/IND> owl:sameAs <http://www.wikidata.org/entity/Q668> .
+
+<http://example.org/nba/Iisalo> owl:sameAs <http://www.wikidata.org/entity/Q28149246> .
+
+<http://example.org/nba/ImeUdoka> owl:sameAs <http://www.wikidata.org/entity/Q1374718> .
+
+<http://example.org/nba/ImmanuelQuickley> owl:sameAs <http://www.wikidata.org/entity/Q55433150> .
+
+<http://example.org/nba/Indiana> owl:sameAs <http://www.wikidata.org/entity/Q1415> .
+
+<http://example.org/nba/IndianaPacers> owl:sameAs <http://www.wikidata.org/entity/Q170329> .
+
+<http://example.org/nba/Indianapolis> owl:sameAs <http://www.wikidata.org/entity/Q6346> .
+
+<http://example.org/nba/Ingram> owl:sameAs <http://www.wikidata.org/entity/Q16871009> .
+
+<http://example.org/nba/Instagram> owl:sameAs <http://www.wikidata.org/entity/Q209330> .
+
+<http://example.org/nba/Iowa> owl:sameAs <http://www.wikidata.org/entity/Q1546> .
+
+<http://example.org/nba/Irving> owl:sameAs <http://www.wikidata.org/entity/Q19819747> .
+
+<http://example.org/nba/IsaacOkoro> owl:sameAs <http://www.wikidata.org/entity/Q66309754> .
+
+<http://example.org/nba/IsaiahCollier> owl:sameAs <http://www.wikidata.org/entity/Q106935967> .
+
+<http://example.org/nba/IsaiahHartenstein> owl:sameAs <http://www.wikidata.org/entity/Q19286282> .
+
+<http://example.org/nba/IsaiahJackson> owl:sameAs <http://www.wikidata.org/entity/Q100816220> .
+
+<http://example.org/nba/IsaiahJoe> owl:sameAs <http://www.wikidata.org/entity/Q74839687> .
+
+<http://example.org/nba/IsaiahStewart> owl:sameAs <http://www.wikidata.org/entity/Q100986240> .
+
+<http://example.org/nba/Ishbia> owl:sameAs <http://www.wikidata.org/entity/Q117336301> .
+
+<http://example.org/nba/Ivey> owl:sameAs <http://www.wikidata.org/entity/Q3261387> .
+
+<http://example.org/nba/IvicaZubac> owl:sameAs <http://www.wikidata.org/entity/Q23761524> .
+
+<http://example.org/nba/JBBickerstaff> owl:sameAs <http://www.wikidata.org/entity/Q18921436> .
+
+<http://example.org/nba/JJRedick> owl:sameAs <http://www.wikidata.org/entity/Q369109> .
+
+<http://example.org/nba/JaMorant> owl:sameAs <http://www.wikidata.org/entity/Q59656031> .
+
+<http://example.org/nba/JabariSmithJr> owl:sameAs <http://www.wikidata.org/entity/Q100268254> .
+
+<http://example.org/nba/Jackson> owl:sameAs <http://www.wikidata.org/entity/Q2732758> .
+
+<http://example.org/nba/JadenIvey> owl:sameAs <http://www.wikidata.org/entity/Q106818050> .
+
+<http://example.org/nba/JaimeJaquezJr> owl:sameAs <http://www.wikidata.org/entity/Q89443831> .
+
+<http://example.org/nba/JakeLaRavia> owl:sameAs <http://www.wikidata.org/entity/Q100874540> .
+
+<http://example.org/nba/JakobPoeltl> owl:sameAs <http://www.wikidata.org/entity/Q20714917> .
+
+<http://example.org/nba/JalenBrunson> owl:sameAs <http://www.wikidata.org/entity/Q17305725> .
+
+<http://example.org/nba/JalenDuren> owl:sameAs <http://www.wikidata.org/entity/Q104698929> .
+
+<http://example.org/nba/JalenGreen> owl:sameAs <http://www.wikidata.org/entity/Q58009130> .
+
+<http://example.org/nba/JalenJohnson> owl:sameAs <http://www.wikidata.org/entity/Q100983308> .
+
+<http://example.org/nba/JalenSuggs> owl:sameAs <http://www.wikidata.org/entity/Q82831721> .
+
+<http://example.org/nba/JalenWilliams> owl:sameAs <http://www.wikidata.org/entity/Q100957462> .
+
+<http://example.org/nba/JamahlMosley> owl:sameAs <http://www.wikidata.org/entity/Q96574144> .
+
+<http://example.org/nba/JamalCain> owl:sameAs <http://www.wikidata.org/entity/Q111936924> .
+
+<http://example.org/nba/JamalMurray> owl:sameAs <http://www.wikidata.org/entity/Q20711111> .
+
+<http://example.org/nba/JamalShead> owl:sameAs <http://www.wikidata.org/entity/Q106818507> .
+
+<http://example.org/nba/James> owl:sameAs <http://www.wikidata.org/entity/Q677191> .
+
+<http://example.org/nba/JamesBorrego> owl:sameAs <http://www.wikidata.org/entity/Q19119569> .
+
+<http://example.org/nba/JamesDolan> owl:sameAs <http://www.wikidata.org/entity/Q6132692> .
+
+<http://example.org/nba/JamesHarden> owl:sameAs <http://www.wikidata.org/entity/Q136678> .
+
+<http://example.org/nba/JamesJones> owl:sameAs <http://www.wikidata.org/entity/Q213861> .
+
+<http://example.org/nba/JamesPosey> owl:sameAs <http://www.wikidata.org/entity/Q89664941> .
+
+<http://example.org/nba/Jaquez> owl:sameAs <http://www.wikidata.org/entity/Q37247388> .
+
+<http://example.org/nba/JaraceWalker> owl:sameAs <http://www.wikidata.org/entity/Q114655492> .
+
+<http://example.org/nba/JaredMcCain> owl:sameAs <http://www.wikidata.org/entity/Q116407947> .
+
+<http://example.org/nba/JarenJacksonJr> owl:sameAs <http://www.wikidata.org/entity/Q28450897> .
+
+<http://example.org/nba/JarredVanderbilt> owl:sameAs <http://www.wikidata.org/entity/Q29045021> .
+
+<http://example.org/nba/JarrettAllen> owl:sameAs <http://www.wikidata.org/entity/Q29048308> .
+
+<http://example.org/nba/JaseRichardson> owl:sameAs <http://www.wikidata.org/entity/Q130942214> .
+
+<http://example.org/nba/JasonKidd> owl:sameAs <http://www.wikidata.org/entity/Q221341> .
+
+<http://example.org/nba/JaxsonHayes> owl:sameAs <http://www.wikidata.org/entity/Q60963199> .
+
+<http://example.org/nba/JayHuff> owl:sameAs <http://www.wikidata.org/entity/Q91330335> .
+
+<http://example.org/nba/JaylenBrown> owl:sameAs <http://www.wikidata.org/entity/Q127202841> .
+
+<http://example.org/nba/JaylenClark> owl:sameAs <http://www.wikidata.org/entity/Q106818444> .
+
+<http://example.org/nba/JaylenWells> owl:sameAs <http://www.wikidata.org/entity/Q125930121> .
+
+<http://example.org/nba/JaylonTyson> owl:sameAs <http://www.wikidata.org/entity/Q124545788> .
+
+<http://example.org/nba/Jayson> owl:sameAs <http://www.wikidata.org/entity/Q6167976> .
+
+<http://example.org/nba/JaysonTatum> owl:sameAs <http://www.wikidata.org/entity/Q21623063> .
+
+<http://example.org/nba/Jazz> owl:sameAs <http://www.wikidata.org/entity/Q8341> .
+
+<http://example.org/nba/JeffGreen> owl:sameAs <http://www.wikidata.org/entity/Q124818731> .
+
+<http://example.org/nba/JeffVanGundy> owl:sameAs <http://www.wikidata.org/entity/Q2607858> .
+
+<http://example.org/nba/JeramiGrant> owl:sameAs <http://www.wikidata.org/entity/Q6180570> .
+
+<http://example.org/nba/JeremiahFears> owl:sameAs <http://www.wikidata.org/entity/Q131344354> .
+
+<http://example.org/nba/JeremySochan> owl:sameAs <http://www.wikidata.org/entity/Q104621930> .
+
+<http://example.org/nba/JeremyWoo> owl:sameAs <http://www.wikidata.org/entity/Q112255562> .
+
+<http://example.org/nba/JettHoward> owl:sameAs <http://www.wikidata.org/entity/Q116687537> .
+
+<http://example.org/nba/JevonCarter> owl:sameAs <http://www.wikidata.org/entity/Q35172580> .
+
+<http://example.org/nba/Jimmy> owl:sameAs <http://www.wikidata.org/entity/Q4166211> .
+
+<http://example.org/nba/JimmyButler> owl:sameAs <http://www.wikidata.org/entity/Q15995670> .
+
+<http://example.org/nba/JimmyButlerIII> owl:sameAs <http://www.wikidata.org/entity/Q498348> .
+
+<http://example.org/nba/JockLandale> owl:sameAs <http://www.wikidata.org/entity/Q30226340> .
+
+<http://example.org/nba/JoeDumars> owl:sameAs <http://www.wikidata.org/entity/Q348598> .
+
+<http://example.org/nba/JoeLacob> owl:sameAs <http://www.wikidata.org/entity/Q6210825> .
+
+<http://example.org/nba/JoeMazzulla> owl:sameAs <http://www.wikidata.org/entity/Q96100106> .
+
+<http://example.org/nba/JoeTsai> owl:sameAs <http://www.wikidata.org/entity/Q18165291> .
+
+<http://example.org/nba/JoelEmbiid> owl:sameAs <http://www.wikidata.org/entity/Q15920046> .
+
+<http://example.org/nba/JohnCalipari> owl:sameAs <http://www.wikidata.org/entity/Q629973> .
+
+<http://example.org/nba/JohnCollins> owl:sameAs <http://www.wikidata.org/entity/Q720921> .
+
+<http://example.org/nba/JohnKonchar> owl:sameAs <http://www.wikidata.org/entity/Q64748342> .
+
+<http://example.org/nba/JohnStockton> owl:sameAs <http://www.wikidata.org/entity/Q213346> .
+
+<http://example.org/nba/JohnnyFurphy> owl:sameAs <http://www.wikidata.org/entity/Q124624089> .
+
+<http://example.org/nba/Johnson> owl:sameAs <http://www.wikidata.org/entity/Q1158485> .
+
+<http://example.org/nba/Jokic> owl:sameAs <http://www.wikidata.org/entity/Q37201523> .
+
+<http://example.org/nba/JonHorst> owl:sameAs <http://www.wikidata.org/entity/Q42211763> .
+
+<http://example.org/nba/JonWallace> owl:sameAs <http://www.wikidata.org/entity/Q117189320> .
+
+<http://example.org/nba/JonasValanciunas> owl:sameAs <http://www.wikidata.org/entity/Q380018> .
+
+<http://example.org/nba/JonathanKuminga> owl:sameAs <http://www.wikidata.org/entity/Q66391607> .
+
+<http://example.org/nba/Jones> owl:sameAs <http://www.wikidata.org/entity/Q59853> .
+
+<http://example.org/nba/Jordan> owl:sameAs <http://www.wikidata.org/entity/Q14021944> .
+
+<http://example.org/nba/JordanClarkson> owl:sameAs <http://www.wikidata.org/entity/Q17302809> .
+
+<http://example.org/nba/JordanGoodwin> owl:sameAs <http://www.wikidata.org/entity/Q119566148> .
+
+<http://example.org/nba/JordanMiller> owl:sameAs <http://www.wikidata.org/entity/Q130348784> .
+
+<http://example.org/nba/JordanOtt> owl:sameAs <http://www.wikidata.org/entity/Q134693412> .
+
+<http://example.org/nba/JordanPoole> owl:sameAs <http://www.wikidata.org/entity/Q50820763> .
+
+<http://example.org/nba/Jordi> owl:sameAs <http://www.wikidata.org/entity/Q17523812> .
+
+<http://example.org/nba/JordiFernandez> owl:sameAs <http://www.wikidata.org/entity/Q18170767> .
+
+<http://example.org/nba/JoseAlvarado> owl:sameAs <http://www.wikidata.org/entity/Q19361678> .
+
+<http://example.org/nba/JoshGiddey> owl:sameAs <http://www.wikidata.org/entity/Q89162230> .
+
+<http://example.org/nba/JoshHart> owl:sameAs <http://www.wikidata.org/entity/Q303957> .
+
+<http://example.org/nba/JoshMinott> owl:sameAs <http://www.wikidata.org/entity/Q112573170> .
+
+<http://example.org/nba/JrueHoliday> owl:sameAs <http://www.wikidata.org/entity/Q622213> .
+
+<http://example.org/nba/JulianChampagnie> owl:sameAs <http://www.wikidata.org/entity/Q100768908> .
+
+<http://example.org/nba/JulianStrawther> owl:sameAs <http://www.wikidata.org/entity/Q106817954> .
+
+<http://example.org/nba/JuliusRandle> owl:sameAs <http://www.wikidata.org/entity/Q15623860> .
+
+<http://example.org/nba/Jump> owl:sameAs <http://www.wikidata.org/entity/Q114887610> .
+
+<http://example.org/nba/JusufNurkic> owl:sameAs <http://www.wikidata.org/entity/Q115915> .
+
+<http://example.org/nba/Kansas> owl:sameAs <http://www.wikidata.org/entity/Q1558> .
+
+<http://example.org/nba/KansasCity> owl:sameAs <http://www.wikidata.org/entity/Q41819> .
+
+<http://example.org/nba/KareemAbdulJabbar> owl:sameAs <http://www.wikidata.org/entity/Q179051> .
+
+<http://example.org/nba/KarlAnthonyTowns> owl:sameAs <http://www.wikidata.org/entity/Q6372315> .
+
+<http://example.org/nba/KasparasJakucionis> owl:sameAs <http://www.wikidata.org/entity/Q118315779> .
+
+<http://example.org/nba/KawhiLeonard> owl:sameAs <http://www.wikidata.org/entity/Q926248> .
+
+<http://example.org/nba/Keegan> owl:sameAs <http://www.wikidata.org/entity/Q21492676> .
+
+<http://example.org/nba/KeeganMurray> owl:sameAs <http://www.wikidata.org/entity/Q106818294> .
+
+<http://example.org/nba/KelelWare> owl:sameAs <http://www.wikidata.org/entity/Q115492262> .
+
+<http://example.org/nba/KellyOubreJr> owl:sameAs <http://www.wikidata.org/entity/Q18619686> .
+
+<http://example.org/nba/KendrickPerkins> owl:sameAs <http://www.wikidata.org/entity/Q131942> .
+
+<http://example.org/nba/Kennard> owl:sameAs <http://www.wikidata.org/entity/Q16871336> .
+
+<http://example.org/nba/KennyAtkinson> owl:sameAs <http://www.wikidata.org/entity/Q6390964> .
+
+<http://example.org/nba/KennySmith> owl:sameAs <http://www.wikidata.org/entity/Q100986000> .
+
+<http://example.org/nba/KentaviousCaldwellPope> owl:sameAs <http://www.wikidata.org/entity/Q13562909> .
+
+<http://example.org/nba/Kentucky> owl:sameAs <http://www.wikidata.org/entity/Q1603> .
+
+<http://example.org/nba/Keon> owl:sameAs <http://www.wikidata.org/entity/Q111072555> .
+
+<http://example.org/nba/KeonEllis> owl:sameAs <http://www.wikidata.org/entity/Q106817980> .
+
+<http://example.org/nba/Kerr> owl:sameAs <http://www.wikidata.org/entity/Q4042166> .
+
+<http://example.org/nba/Kessler> owl:sameAs <http://www.wikidata.org/entity/Q65957891> .
+
+<http://example.org/nba/Kevin> owl:sameAs <http://www.wikidata.org/entity/Q605834> .
+
+<http://example.org/nba/KevinDurant> owl:sameAs <http://www.wikidata.org/entity/Q29545> .
+
+<http://example.org/nba/KevinGarnett> owl:sameAs <http://www.wikidata.org/entity/Q189240> .
+
+<http://example.org/nba/KevinHuerter> owl:sameAs <http://www.wikidata.org/entity/Q54311721> .
+
+<http://example.org/nba/KevinLove> owl:sameAs <http://www.wikidata.org/entity/Q100984257> .
+
+<http://example.org/nba/KevinMcCullarJr> owl:sameAs <http://www.wikidata.org/entity/Q100881976> .
+
+<http://example.org/nba/KevinPorterJr> owl:sameAs <http://www.wikidata.org/entity/Q58974788> .
+
+<http://example.org/nba/KevonLooney> owl:sameAs <http://www.wikidata.org/entity/Q18564189> .
+
+<http://example.org/nba/KeyArena> owl:sameAs <http://www.wikidata.org/entity/Q977529> .
+
+<http://example.org/nba/KeyonteGeorge> owl:sameAs <http://www.wikidata.org/entity/Q108576613> .
+
+<http://example.org/nba/KhamanMaluach> owl:sameAs <http://www.wikidata.org/entity/Q121367318> .
+
+<http://example.org/nba/KhrisMiddleton> owl:sameAs <http://www.wikidata.org/entity/Q558663> .
+
+<http://example.org/nba/Kings> owl:sameAs <http://www.wikidata.org/entity/Q34692> .
+
+<http://example.org/nba/KlayThompson> owl:sameAs <http://www.wikidata.org/entity/Q29342> .
+
+<http://example.org/nba/KlutchSports> owl:sameAs <http://www.wikidata.org/entity/Q107969738> .
+
+<http://example.org/nba/Knick> owl:sameAs <http://www.wikidata.org/entity/Q131364> .
+
+<http://example.org/nba/Knicks> owl:sameAs <http://www.wikidata.org/entity/Q131364> .
+
+<http://example.org/nba/KobeBrown> owl:sameAs <http://www.wikidata.org/entity/Q100762367> .
+
+<http://example.org/nba/KobeBryant> owl:sameAs <http://www.wikidata.org/entity/Q25369> .
+
+<http://example.org/nba/KobeSanders> owl:sameAs <http://www.wikidata.org/entity/Q106818762> .
+
+<http://example.org/nba/KobyBrea> owl:sameAs <http://www.wikidata.org/entity/Q106818605> .
+
+<http://example.org/nba/Kolek> owl:sameAs <http://www.wikidata.org/entity/Q37458659> .
+
+<http://example.org/nba/KonKnueppel> owl:sameAs <http://www.wikidata.org/entity/Q123666661> .
+
+<http://example.org/nba/Kornet> owl:sameAs <http://www.wikidata.org/entity/Q37563502> .
+
+<http://example.org/nba/KrisDunn> owl:sameAs <http://www.wikidata.org/entity/Q60021921> .
+
+<http://example.org/nba/KristapsPorzingis> owl:sameAs <http://www.wikidata.org/entity/Q14834367> .
+
+<http://example.org/nba/Kuminga> owl:sameAs <http://www.wikidata.org/entity/Q66391607> .
+
+<http://example.org/nba/Kuzma> owl:sameAs <http://www.wikidata.org/entity/Q13162211> .
+
+<http://example.org/nba/KyleAnderson> owl:sameAs <http://www.wikidata.org/entity/Q6451040> .
+
+<http://example.org/nba/KyleFilipowski> owl:sameAs <http://www.wikidata.org/entity/Q111231664> .
+
+<http://example.org/nba/KyleKuzma> owl:sameAs <http://www.wikidata.org/entity/Q30063347> .
+
+<http://example.org/nba/KyleLowry> owl:sameAs <http://www.wikidata.org/entity/Q974603> .
+
+<http://example.org/nba/KyrieIrving> owl:sameAs <http://www.wikidata.org/entity/Q348618> .
+
+<http://example.org/nba/KyshawnGeorge> owl:sameAs <http://www.wikidata.org/entity/Q123155481> .
+
+<http://example.org/nba/LA> owl:sameAs <http://www.wikidata.org/entity/Q65> .
+
+<http://example.org/nba/LAClippers> owl:sameAs <http://www.wikidata.org/entity/Q976396> .
+
+<http://example.org/nba/LAL> owl:sameAs <http://www.wikidata.org/entity/Q6480003> .
+
+<http://example.org/nba/LaMeloBall> owl:sameAs <http://www.wikidata.org/entity/Q28741203> .
+
+<http://example.org/nba/LaRavia> owl:sameAs <http://www.wikidata.org/entity/Q117514033> .
+
+<http://example.org/nba/LaVine> owl:sameAs <http://www.wikidata.org/entity/Q6502697> .
+
+<http://example.org/nba/Laker> owl:sameAs <http://www.wikidata.org/entity/Q37007996> .
+
+<http://example.org/nba/Lakers> owl:sameAs <http://www.wikidata.org/entity/Q121783> .
+
+<http://example.org/nba/LandryShamet> owl:sameAs <http://www.wikidata.org/entity/Q44968365> .
+
+<http://example.org/nba/LarryBird> owl:sameAs <http://www.wikidata.org/entity/Q190152> .
+
+<http://example.org/nba/LarryOBrienTrophy> owl:sameAs <http://www.wikidata.org/entity/Q31736> .
+
+<http://example.org/nba/LasVegas> owl:sameAs <http://www.wikidata.org/entity/Q23768> .
+
+<http://example.org/nba/LauriMarkkanen> owl:sameAs <http://www.wikidata.org/entity/Q19706820> .
+
+<http://example.org/nba/LawrenceFrank> owl:sameAs <http://www.wikidata.org/entity/Q1352098> .
+
+<http://example.org/nba/LeBron> owl:sameAs <http://www.wikidata.org/entity/Q36159> .
+
+<http://example.org/nba/LeBronJames> owl:sameAs <http://www.wikidata.org/entity/Q36159> .
+
+<http://example.org/nba/LeonRose> owl:sameAs <http://www.wikidata.org/entity/Q1063692> .
+
+<http://example.org/nba/Leonard> owl:sameAs <http://www.wikidata.org/entity/Q948418> .
+
+<http://example.org/nba/Lillard> owl:sameAs <http://www.wikidata.org/entity/Q16872161> .
+
+<http://example.org/nba/Lineups> owl:sameAs <http://www.wikidata.org/entity/Q67461611> .
+
+<http://example.org/nba/London> owl:sameAs <http://www.wikidata.org/entity/Q84> .
+
+<http://example.org/nba/LonzoBall> owl:sameAs <http://www.wikidata.org/entity/Q23542695> .
+
+<http://example.org/nba/Looney> owl:sameAs <http://www.wikidata.org/entity/Q16872464> .
+
+<http://example.org/nba/Lopez> owl:sameAs <http://www.wikidata.org/entity/Q26078995> .
+
+<http://example.org/nba/LosAngeles> owl:sameAs <http://www.wikidata.org/entity/Q65> .
+
+<http://example.org/nba/LosAngelesLakers> owl:sameAs <http://www.wikidata.org/entity/Q121783> .
+
+<http://example.org/nba/LouWilliams> owl:sameAs <http://www.wikidata.org/entity/Q100987330> .
+
+<http://example.org/nba/Louisville> owl:sameAs <http://www.wikidata.org/entity/Q43668> .
+
+<http://example.org/nba/LuDort> owl:sameAs <http://www.wikidata.org/entity/Q59209443> .
+
+<http://example.org/nba/Lue> owl:sameAs <http://www.wikidata.org/entity/Q37026375> .
+
+<http://example.org/nba/LuguentzDort> owl:sameAs <http://www.wikidata.org/entity/Q59209443> .
+
+<http://example.org/nba/Luka> owl:sameAs <http://www.wikidata.org/entity/Q18760839> .
+
+<http://example.org/nba/LukaDoncic> owl:sameAs <http://www.wikidata.org/entity/Q19844712> .
+
+<http://example.org/nba/LukaGarza> owl:sameAs <http://www.wikidata.org/entity/Q79052337> .
+
+<http://example.org/nba/LukeKennard> owl:sameAs <http://www.wikidata.org/entity/Q28935925> .
+
+<http://example.org/nba/LukeKornet> owl:sameAs <http://www.wikidata.org/entity/Q28967738> .
+
+<http://example.org/nba/MCL> owl:sameAs <http://www.wikidata.org/entity/Q268713> .
+
+<http://example.org/nba/MEM> owl:sameAs <http://www.wikidata.org/entity/Q16563> .
+
+<http://example.org/nba/MIL> owl:sameAs <http://www.wikidata.org/entity/Q174789> .
+
+<http://example.org/nba/MIN> owl:sameAs <http://www.wikidata.org/entity/Q7727> .
+
+<http://example.org/nba/MLB> owl:sameAs <http://www.wikidata.org/entity/Q1163715> .
+
+<http://example.org/nba/MSG> owl:sameAs <http://www.wikidata.org/entity/Q186125> .
+
+<http://example.org/nba/MVP> owl:sameAs <http://www.wikidata.org/entity/Q652965> .
+
+<http://example.org/nba/MacMahon> owl:sameAs <http://www.wikidata.org/entity/Q65648461> .
+
+<http://example.org/nba/Magic> owl:sameAs <http://www.wikidata.org/entity/Q81741> .
+
+<http://example.org/nba/MagicJohnson> owl:sameAs <http://www.wikidata.org/entity/Q134183> .
+
+<http://example.org/nba/Maine> owl:sameAs <http://www.wikidata.org/entity/Q724> .
+
+<http://example.org/nba/MalikBeasley> owl:sameAs <http://www.wikidata.org/entity/Q24006239> .
+
+<http://example.org/nba/MalikMonk> owl:sameAs <http://www.wikidata.org/entity/Q21622110> .
+
+<http://example.org/nba/MarcusSasser> owl:sameAs <http://www.wikidata.org/entity/Q100919920> .
+
+<http://example.org/nba/MarcusSmart> owl:sameAs <http://www.wikidata.org/entity/Q6758454> .
+
+<http://example.org/nba/MarkDaigneault> owl:sameAs <http://www.wikidata.org/entity/Q18223149> .
+
+<http://example.org/nba/MarkWilliams> owl:sameAs <http://www.wikidata.org/entity/Q317265> .
+
+<http://example.org/nba/Markkanen> owl:sameAs <http://www.wikidata.org/entity/Q21511591> .
+
+<http://example.org/nba/Marks> owl:sameAs <http://www.wikidata.org/entity/Q1845607> .
+
+<http://example.org/nba/Marshall> owl:sameAs <http://www.wikidata.org/entity/Q52996> .
+
+<http://example.org/nba/MarvinBagleyIII> owl:sameAs <http://www.wikidata.org/entity/Q28972128> .
+
+<http://example.org/nba/MasonPlumlee> owl:sameAs <http://www.wikidata.org/entity/Q6783608> .
+
+<http://example.org/nba/MatIshbia> owl:sameAs <http://www.wikidata.org/entity/Q100811627> .
+
+<http://example.org/nba/MatasBuzelis> owl:sameAs <http://www.wikidata.org/entity/Q116407129> .
+
+<http://example.org/nba/Mathurin> owl:sameAs <http://www.wikidata.org/entity/Q18228399> .
+
+<http://example.org/nba/MatisseThybulle> owl:sameAs <http://www.wikidata.org/entity/Q50938690> .
+
+<http://example.org/nba/MattWilliams> owl:sameAs <http://www.wikidata.org/entity/Q59273677> .
+
+<http://example.org/nba/Mavericks> owl:sameAs <http://www.wikidata.org/entity/Q951665> .
+
+<http://example.org/nba/Mavs> owl:sameAs <http://www.wikidata.org/entity/Q132893> .
+
+<http://example.org/nba/MaxChristie> owl:sameAs <http://www.wikidata.org/entity/Q107302659> .
+
+<http://example.org/nba/MaxStrus> owl:sameAs <http://www.wikidata.org/entity/Q65952023> .
+
+<http://example.org/nba/Maxey> owl:sameAs <http://www.wikidata.org/entity/Q3107206> .
+
+<http://example.org/nba/MaxiKleber> owl:sameAs <http://www.wikidata.org/entity/Q1476337> .
+
+<http://example.org/nba/MaximeRaynaud> owl:sameAs <http://www.wikidata.org/entity/Q120727118> .
+
+<http://example.org/nba/Mazzulla> owl:sameAs <http://www.wikidata.org/entity/Q37481067> .
+
+<http://example.org/nba/McCain> owl:sameAs <http://www.wikidata.org/entity/Q16876647> .
+
+<http://example.org/nba/McCollum> owl:sameAs <http://www.wikidata.org/entity/Q21489070> .
+
+<http://example.org/nba/McConnell> owl:sameAs <http://www.wikidata.org/entity/Q13553908> .
+
+<http://example.org/nba/McMenamin> owl:sameAs <http://www.wikidata.org/entity/Q16876712> .
+
+<http://example.org/nba/Melton> owl:sameAs <http://www.wikidata.org/entity/Q1853349> .
+
+<http://example.org/nba/Memphis> owl:sameAs <http://www.wikidata.org/entity/Q16563> .
+
+<http://example.org/nba/MemphisGrizzlies> owl:sameAs <http://www.wikidata.org/entity/Q165529> .
+
+<http://example.org/nba/MexicoCity> owl:sameAs <http://www.wikidata.org/entity/Q1489> .
+
+<http://example.org/nba/Miami> owl:sameAs <http://www.wikidata.org/entity/Q8652> .
+
+<http://example.org/nba/MiamiHeat> owl:sameAs <http://www.wikidata.org/entity/Q169138> .
+
+<http://example.org/nba/MichaelJordan> owl:sameAs <http://www.wikidata.org/entity/Q41421> .
+
+<http://example.org/nba/MichaelPorterJr> owl:sameAs <http://www.wikidata.org/entity/Q28810445> .
+
+<http://example.org/nba/Middleton> owl:sameAs <http://www.wikidata.org/entity/Q1570640> .
+
+<http://example.org/nba/MikalBridges> owl:sameAs <http://www.wikidata.org/entity/Q23800231> .
+
+<http://example.org/nba/MikeBrown> owl:sameAs <http://www.wikidata.org/entity/Q1933055> .
+
+<http://example.org/nba/MikeBudenholzer> owl:sameAs <http://www.wikidata.org/entity/Q776784> .
+
+<http://example.org/nba/MikeConley> owl:sameAs <http://www.wikidata.org/entity/Q921340> .
+
+<http://example.org/nba/MilesBridges> owl:sameAs <http://www.wikidata.org/entity/Q27925506> .
+
+<http://example.org/nba/MilesMcBride> owl:sameAs <http://www.wikidata.org/entity/Q100881311> .
+
+<http://example.org/nba/Miller> owl:sameAs <http://www.wikidata.org/entity/Q1605060> .
+
+<http://example.org/nba/Milwaukee> owl:sameAs <http://www.wikidata.org/entity/Q37836> .
+
+<http://example.org/nba/MilwaukeeBucks> owl:sameAs <http://www.wikidata.org/entity/Q169637> .
+
+<http://example.org/nba/Minneapolis> owl:sameAs <http://www.wikidata.org/entity/Q36091> .
+
+<http://example.org/nba/Minnesota> owl:sameAs <http://www.wikidata.org/entity/Q1527> .
+
+<http://example.org/nba/MinnesotaTimberwolves> owl:sameAs <http://www.wikidata.org/entity/Q170558> .
+
+<http://example.org/nba/Minott> owl:sameAs <http://www.wikidata.org/entity/Q6869396> .
+
+<http://example.org/nba/MitchJohnson> owl:sameAs <http://www.wikidata.org/entity/Q6880910> .
+
+<http://example.org/nba/Mitchell> owl:sameAs <http://www.wikidata.org/entity/Q179205> .
+
+<http://example.org/nba/MitchellRobinson> owl:sameAs <http://www.wikidata.org/entity/Q32123497> .
+
+<http://example.org/nba/Mobley> owl:sameAs <http://www.wikidata.org/entity/Q21512212> .
+
+<http://example.org/nba/MoeWagner> owl:sameAs <http://www.wikidata.org/entity/Q22999836> .
+
+<http://example.org/nba/MohamedDiawara> owl:sameAs <http://www.wikidata.org/entity/Q114442568> .
+
+<http://example.org/nba/Monk> owl:sameAs <http://www.wikidata.org/entity/Q733786> .
+
+<http://example.org/nba/Montreal> owl:sameAs <http://www.wikidata.org/entity/Q340> .
+
+<http://example.org/nba/Moody> owl:sameAs <http://www.wikidata.org/entity/Q50364540> .
+
+<http://example.org/nba/Morant> owl:sameAs <http://www.wikidata.org/entity/Q21449961> .
+
+<http://example.org/nba/Moritz> owl:sameAs <http://www.wikidata.org/entity/Q16422573> .
+
+<http://example.org/nba/MoritzWagner> owl:sameAs <http://www.wikidata.org/entity/Q68757> .
+
+<http://example.org/nba/MosesMoody> owl:sameAs <http://www.wikidata.org/entity/Q97154115> .
+
+<http://example.org/nba/MostImprovedPlayer> owl:sameAs <http://www.wikidata.org/entity/Q47677169> .
+
+<http://example.org/nba/MostValuablePlayer> owl:sameAs <http://www.wikidata.org/entity/Q652965> .
+
+<http://example.org/nba/MoussaDiabate> owl:sameAs <http://www.wikidata.org/entity/Q97495355> .
+
+<http://example.org/nba/MultipleBucks> owl:sameAs <http://www.wikidata.org/entity/Q69424773> .
+
+<http://example.org/nba/Murphy> owl:sameAs <http://www.wikidata.org/entity/Q1953798> .
+
+<http://example.org/nba/Murray> owl:sameAs <http://www.wikidata.org/entity/Q1308329> .
+
+<http://example.org/nba/MylesTurner> owl:sameAs <http://www.wikidata.org/entity/Q17403499> .
+
+<http://example.org/nba/NBA> owl:sameAs <http://www.wikidata.org/entity/Q155223> .
+
+<http://example.org/nba/NBACup> owl:sameAs <http://www.wikidata.org/entity/Q120491297> .
+
+<http://example.org/nba/NBAFinals> owl:sameAs <http://www.wikidata.org/entity/Q842375> .
+
+<http://example.org/nba/NBAMVP> owl:sameAs <http://www.wikidata.org/entity/Q222047> .
+
+<http://example.org/nba/NBARookie> owl:sameAs <http://www.wikidata.org/entity/Q644357> .
+
+<http://example.org/nba/NBAcom> owl:sameAs <http://www.wikidata.org/entity/Q1340828> .
+
+<http://example.org/nba/NBPA> owl:sameAs <http://www.wikidata.org/entity/Q1627222> .
+
+<http://example.org/nba/NCAA> owl:sameAs <http://www.wikidata.org/entity/Q271805> .
+
+<http://example.org/nba/NEWYORK> owl:sameAs <http://www.wikidata.org/entity/Q1384> .
+
+<http://example.org/nba/NFL> owl:sameAs <http://www.wikidata.org/entity/Q1215884> .
+
+<http://example.org/nba/NHL> owl:sameAs <http://www.wikidata.org/entity/Q1215892> .
+
+<http://example.org/nba/NYK> owl:sameAs <http://www.wikidata.org/entity/Q131364> .
+
+<http://example.org/nba/NajiMarshall> owl:sameAs <http://www.wikidata.org/entity/Q75656968> .
+
+<http://example.org/nba/Nashville> owl:sameAs <http://www.wikidata.org/entity/Q23197> .
+
+<http://example.org/nba/NazReid> owl:sameAs <http://www.wikidata.org/entity/Q55641235> .
+
+<http://example.org/nba/NeemiasQueta> owl:sameAs <http://www.wikidata.org/entity/Q62072476> .
+
+<http://example.org/nba/Nembhard> owl:sameAs <http://www.wikidata.org/entity/Q37532505> .
+
+<http://example.org/nba/Nets> owl:sameAs <http://www.wikidata.org/entity/Q7003141> .
+
+<http://example.org/nba/Nevada> owl:sameAs <http://www.wikidata.org/entity/Q1227> .
+
+<http://example.org/nba/NewOrleans> owl:sameAs <http://www.wikidata.org/entity/Q34404> .
+
+<http://example.org/nba/NewYork> owl:sameAs <http://www.wikidata.org/entity/Q1384> .
+
+<http://example.org/nba/NewYorkCity> owl:sameAs <http://www.wikidata.org/entity/Q60> .
+
+<http://example.org/nba/NewYorkKnicks> owl:sameAs <http://www.wikidata.org/entity/Q131364> .
+
+<http://example.org/nba/Next> owl:sameAs <http://www.wikidata.org/entity/Q308993> .
+
+<http://example.org/nba/NicClaxton> owl:sameAs <http://www.wikidata.org/entity/Q64010219> .
+
+<http://example.org/nba/NickNurse> owl:sameAs <http://www.wikidata.org/entity/Q3339779> .
+
+<http://example.org/nba/NickRichards> owl:sameAs <http://www.wikidata.org/entity/Q39070726> .
+
+<http://example.org/nba/NickSmithJr> owl:sameAs <http://www.wikidata.org/entity/Q111942676> .
+
+<http://example.org/nba/NickeilAlexanderWalker> owl:sameAs <http://www.wikidata.org/entity/Q56513207> .
+
+<http://example.org/nba/NicolasBatum> owl:sameAs <http://www.wikidata.org/entity/Q352114> .
+
+<http://example.org/nba/NigelHayesDavis> owl:sameAs <http://www.wikidata.org/entity/Q18637452> .
+
+<http://example.org/nba/NikolaJokic> owl:sameAs <http://www.wikidata.org/entity/Q17281073> .
+
+<http://example.org/nba/NikolaJovic> owl:sameAs <http://www.wikidata.org/entity/Q106328397> .
+
+<http://example.org/nba/NikolaTopic> owl:sameAs <http://www.wikidata.org/entity/Q111416535> .
+
+<http://example.org/nba/NikolaVucevic> owl:sameAs <http://www.wikidata.org/entity/Q659886> .
+
+<http://example.org/nba/NiqueClifford> owl:sameAs <http://www.wikidata.org/entity/Q106818157> .
+
+<http://example.org/nba/No10> owl:sameAs <http://www.wikidata.org/entity/Q54936400> .
+
+<http://example.org/nba/NoahClowney> owl:sameAs <http://www.wikidata.org/entity/Q116774562> .
+
+<http://example.org/nba/NolanTraore> owl:sameAs <http://www.wikidata.org/entity/Q125140895> .
+
+<http://example.org/nba/NormanPowell> owl:sameAs <http://www.wikidata.org/entity/Q6886881> .
+
+<http://example.org/nba/NorthCarolina> owl:sameAs <http://www.wikidata.org/entity/Q1454> .
+
+<http://example.org/nba/Nos> owl:sameAs <http://www.wikidata.org/entity/Q1515393> .
+
+<http://example.org/nba/Nuggets> owl:sameAs <http://www.wikidata.org/entity/Q603825> .
+
+<http://example.org/nba/Nurkic> owl:sameAs <http://www.wikidata.org/entity/Q105222609> .
+
+<http://example.org/nba/OGAnunoby> owl:sameAs <http://www.wikidata.org/entity/Q28054144> .
+
+<http://example.org/nba/OKC> owl:sameAs <http://www.wikidata.org/entity/Q34863> .
+
+<http://example.org/nba/OKLAHOMACITY> owl:sameAs <http://www.wikidata.org/entity/Q34863> .
+
+<http://example.org/nba/ORL> owl:sameAs <http://www.wikidata.org/entity/Q6548> .
+
+<http://example.org/nba/ORTG> owl:sameAs <http://www.wikidata.org/entity/Q87161043> .
+
+<http://example.org/nba/Oakland> owl:sameAs <http://www.wikidata.org/entity/Q17042> .
+
+<http://example.org/nba/Offseason> owl:sameAs <http://www.wikidata.org/entity/Q108122806> .
+
+<http://example.org/nba/Oklahoma> owl:sameAs <http://www.wikidata.org/entity/Q1649> .
+
+<http://example.org/nba/OklahomaCity> owl:sameAs <http://www.wikidata.org/entity/Q34863> .
+
+<http://example.org/nba/OklahomaCityThunder> owl:sameAs <http://www.wikidata.org/entity/Q180950> .
+
+<http://example.org/nba/Okoro> owl:sameAs <http://www.wikidata.org/entity/Q21491486> .
+
+<http://example.org/nba/OnsiSaleh> owl:sameAs <http://www.wikidata.org/entity/Q134007215> .
+
+<http://example.org/nba/OnyekaOkongwu> owl:sameAs <http://www.wikidata.org/entity/Q44858580> .
+
+<http://example.org/nba/Opposing> owl:sameAs <http://www.wikidata.org/entity/Q12829182> .
+
+<http://example.org/nba/Orlando> owl:sameAs <http://www.wikidata.org/entity/Q49233> .
+
+<http://example.org/nba/OrlandoMagic> owl:sameAs <http://www.wikidata.org/entity/Q161337> .
+
+<http://example.org/nba/OscarRobertson> owl:sameAs <http://www.wikidata.org/entity/Q17717> .
+
+<http://example.org/nba/OsoIghodaro> owl:sameAs <http://www.wikidata.org/entity/Q106818582> .
+
+<http://example.org/nba/Ott> owl:sameAs <http://www.wikidata.org/entity/Q2041543> .
+
+<http://example.org/nba/PHI> owl:sameAs <http://www.wikidata.org/entity/Q928> .
+
+<http://example.org/nba/PHX> owl:sameAs <http://www.wikidata.org/entity/Q16556> .
+
+<http://example.org/nba/PJWashington> owl:sameAs <http://www.wikidata.org/entity/Q29044852> .
+
+<http://example.org/nba/POR> owl:sameAs <http://www.wikidata.org/entity/Q5146> .
+
+<http://example.org/nba/PPG> owl:sameAs <http://www.wikidata.org/entity/Q48754> .
+
+<http://example.org/nba/Pacer> owl:sameAs <http://www.wikidata.org/entity/Q37558058> .
+
+<http://example.org/nba/Pacers> owl:sameAs <http://www.wikidata.org/entity/Q170329> .
+
+<http://example.org/nba/PaoloBanchero> owl:sameAs <http://www.wikidata.org/entity/Q92198887> .
+
+<http://example.org/nba/Paris> owl:sameAs <http://www.wikidata.org/entity/Q90> .
+
+<http://example.org/nba/PascalSiakam> owl:sameAs <http://www.wikidata.org/entity/Q23541220> .
+
+<http://example.org/nba/PatConnaughton> owl:sameAs <http://www.wikidata.org/entity/Q17180552> .
+
+<http://example.org/nba/PatRiley> owl:sameAs <http://www.wikidata.org/entity/Q108050703> .
+
+<http://example.org/nba/Paul> owl:sameAs <http://www.wikidata.org/entity/Q4925623> .
+
+<http://example.org/nba/PaulGeorge> owl:sameAs <http://www.wikidata.org/entity/Q116494229> .
+
+<http://example.org/nba/Payton> owl:sameAs <http://www.wikidata.org/entity/Q7156925> .
+
+<http://example.org/nba/PaytonPritchard> owl:sameAs <http://www.wikidata.org/entity/Q32318040> .
+
+<http://example.org/nba/PelleLarsson> owl:sameAs <http://www.wikidata.org/entity/Q106819095> .
+
+<http://example.org/nba/Pels> owl:sameAs <http://www.wikidata.org/entity/Q37461668> .
+
+<http://example.org/nba/Pelton> owl:sameAs <http://www.wikidata.org/entity/Q37247569> .
+
+<http://example.org/nba/PeytonWatson> owl:sameAs <http://www.wikidata.org/entity/Q106641631> .
+
+<http://example.org/nba/Philadelphia> owl:sameAs <http://www.wikidata.org/entity/Q1345> .
+
+<http://example.org/nba/Philly> owl:sameAs <http://www.wikidata.org/entity/Q1345> .
+
+<http://example.org/nba/Phoenix> owl:sameAs <http://www.wikidata.org/entity/Q16556> .
+
+<http://example.org/nba/PhoenixSuns> owl:sameAs <http://www.wikidata.org/entity/Q164177> .
+
+<http://example.org/nba/Pick> owl:sameAs <http://www.wikidata.org/entity/Q16881201> .
+
+<http://example.org/nba/Podziemski> owl:sameAs <http://www.wikidata.org/entity/Q119603261> .
+
+<http://example.org/nba/Poole> owl:sameAs <http://www.wikidata.org/entity/Q203349> .
+
+<http://example.org/nba/Porter> owl:sameAs <http://www.wikidata.org/entity/Q2105042> .
+
+<http://example.org/nba/Portland> owl:sameAs <http://www.wikidata.org/entity/Q6106> .
+
+<http://example.org/nba/PortlandTrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q167253> .
+
+<http://example.org/nba/Porzingis> owl:sameAs <http://www.wikidata.org/entity/Q20812198> .
+
+<http://example.org/nba/Powell> owl:sameAs <http://www.wikidata.org/entity/Q1158612> .
+
+<http://example.org/nba/Preseason> owl:sameAs <http://www.wikidata.org/entity/Q124632221> .
+
+<http://example.org/nba/PreseasonJump> owl:sameAs <http://www.wikidata.org/entity/Q37394364> .
+
+<http://example.org/nba/PrioritySports> owl:sameAs <http://www.wikidata.org/entity/Q17148536> .
+
+<http://example.org/nba/Queen> owl:sameAs <http://www.wikidata.org/entity/Q15862> .
+
+<http://example.org/nba/QuentinGrimes> owl:sameAs <http://www.wikidata.org/entity/Q55138272> .
+
+<http://example.org/nba/Queta> owl:sameAs <http://www.wikidata.org/entity/Q11701613> .
+
+<http://example.org/nba/QuinSnyder> owl:sameAs <http://www.wikidata.org/entity/Q3414516> .
+
+<http://example.org/nba/QuintenPost> owl:sameAs <http://www.wikidata.org/entity/Q100903059> .
+
+<http://example.org/nba/ROY> owl:sameAs <http://www.wikidata.org/entity/Q2170752> .
+
+<http://example.org/nba/RPG> owl:sameAs <http://www.wikidata.org/entity/Q744038> .
+
+<http://example.org/nba/RafaelStone> owl:sameAs <http://www.wikidata.org/entity/Q100928481> .
+
+<http://example.org/nba/Raiders> owl:sameAs <http://www.wikidata.org/entity/Q324523> .
+
+<http://example.org/nba/Randle> owl:sameAs <http://www.wikidata.org/entity/Q21509248> .
+
+<http://example.org/nba/Raynaud> owl:sameAs <http://www.wikidata.org/entity/Q124282697> .
+
+<http://example.org/nba/Razorbacks> owl:sameAs <http://www.wikidata.org/entity/Q3866524> .
+
+<http://example.org/nba/Reaves> owl:sameAs <http://www.wikidata.org/entity/Q37329419> .
+
+<http://example.org/nba/Recognition> owl:sameAs <http://www.wikidata.org/entity/Q7302601> .
+
+<http://example.org/nba/Redick> owl:sameAs <http://www.wikidata.org/entity/Q21488622> .
+
+<http://example.org/nba/ReedSheppard> owl:sameAs <http://www.wikidata.org/entity/Q116408003> .
+
+<http://example.org/nba/RichPaul> owl:sameAs <http://www.wikidata.org/entity/Q111828266> .
+
+<http://example.org/nba/RickCarlisle> owl:sameAs <http://www.wikidata.org/entity/Q339256> .
+
+<http://example.org/nba/RickCelebrini> owl:sameAs <http://www.wikidata.org/entity/Q7331287> .
+
+<http://example.org/nba/Riley> owl:sameAs <http://www.wikidata.org/entity/Q2153054> .
+
+<http://example.org/nba/RobDillingham> owl:sameAs <http://www.wikidata.org/entity/Q108435545> .
+
+<http://example.org/nba/RobertWilliamsIII> owl:sameAs <http://www.wikidata.org/entity/Q69429725> .
+
+<http://example.org/nba/Robinson> owl:sameAs <http://www.wikidata.org/entity/Q2798428> .
+
+<http://example.org/nba/Rocket> owl:sameAs <http://www.wikidata.org/entity/Q41291> .
+
+<http://example.org/nba/Rockets> owl:sameAs <http://www.wikidata.org/entity/Q41291> .
+
+<http://example.org/nba/Rollins> owl:sameAs <http://www.wikidata.org/entity/Q3423003> .
+
+<http://example.org/nba/RonArtest> owl:sameAs <http://www.wikidata.org/entity/Q295322> .
+
+<http://example.org/nba/Rookie> owl:sameAs <http://www.wikidata.org/entity/Q48744320> .
+
+<http://example.org/nba/Rozier> owl:sameAs <http://www.wikidata.org/entity/Q21449052> .
+
+<http://example.org/nba/RudyGobert> owl:sameAs <http://www.wikidata.org/entity/Q3446792> .
+
+<http://example.org/nba/RuiHachimura> owl:sameAs <http://www.wikidata.org/entity/Q22959347> .
+
+<http://example.org/nba/Russell> owl:sameAs <http://www.wikidata.org/entity/Q1158262> .
+
+<http://example.org/nba/RussellWestbrook> owl:sameAs <http://www.wikidata.org/entity/Q196185> .
+
+<http://example.org/nba/Rutgers> owl:sameAs <http://www.wikidata.org/entity/Q499451> .
+
+<http://example.org/nba/RyanDunn> owl:sameAs <http://www.wikidata.org/entity/Q316036> .
+
+<http://example.org/nba/RyanKalkbrenner> owl:sameAs <http://www.wikidata.org/entity/Q106818559> .
+
+<http://example.org/nba/RyanNembhard> owl:sameAs <http://www.wikidata.org/entity/Q110278938> .
+
+<http://example.org/nba/RyanRollins> owl:sameAs <http://www.wikidata.org/entity/Q112581331> .
+
+<http://example.org/nba/SAC> owl:sameAs <http://www.wikidata.org/entity/Q18013> .
+
+<http://example.org/nba/SANFRANCISCO> owl:sameAs <http://www.wikidata.org/entity/Q62> .
+
+<http://example.org/nba/SAS> owl:sameAs <http://www.wikidata.org/entity/Q187854> .
+
+<http://example.org/nba/Sabonis> owl:sameAs <http://www.wikidata.org/entity/Q56540540> .
+
+<http://example.org/nba/Sacramento> owl:sameAs <http://www.wikidata.org/entity/Q18013> .
+
+<http://example.org/nba/SacramentoKings> owl:sameAs <http://www.wikidata.org/entity/Q166105> .
+
+<http://example.org/nba/SaddiqBey> owl:sameAs <http://www.wikidata.org/entity/Q77445037> .
+
+<http://example.org/nba/Salary> owl:sameAs <http://www.wikidata.org/entity/Q194489> .
+
+<http://example.org/nba/Salaun> owl:sameAs <http://www.wikidata.org/entity/Q24699771> .
+
+<http://example.org/nba/SamMerrill> owl:sameAs <http://www.wikidata.org/entity/Q62719191> .
+
+<http://example.org/nba/SamPresti> owl:sameAs <http://www.wikidata.org/entity/Q7408037> .
+
+<http://example.org/nba/SanAntonio> owl:sameAs <http://www.wikidata.org/entity/Q975> .
+
+<http://example.org/nba/SanAntonioSpurs> owl:sameAs <http://www.wikidata.org/entity/Q159729> .
+
+<http://example.org/nba/SanFrancisco> owl:sameAs <http://www.wikidata.org/entity/Q62> .
+
+<http://example.org/nba/SanJose> owl:sameAs <http://www.wikidata.org/entity/Q16553> .
+
+<http://example.org/nba/Sanders> owl:sameAs <http://www.wikidata.org/entity/Q16882608> .
+
+<http://example.org/nba/SantiAldama> owl:sameAs <http://www.wikidata.org/entity/Q69308603> .
+
+<http://example.org/nba/Sarr> owl:sameAs <http://www.wikidata.org/entity/Q21498621> .
+
+<http://example.org/nba/Schedule> owl:sameAs <http://www.wikidata.org/entity/Q352858> .
+
+<http://example.org/nba/Schroder> owl:sameAs <http://www.wikidata.org/entity/Q11703657> .
+
+<http://example.org/nba/ScootHenderson> owl:sameAs <http://www.wikidata.org/entity/Q106928080> .
+
+<http://example.org/nba/ScottPerry> owl:sameAs <http://www.wikidata.org/entity/Q7437040> .
+
+<http://example.org/nba/ScottieBarnes> owl:sameAs <http://www.wikidata.org/entity/Q66459298> .
+
+<http://example.org/nba/ScottiePippen> owl:sameAs <http://www.wikidata.org/entity/Q193637> .
+
+<http://example.org/nba/Seattle> owl:sameAs <http://www.wikidata.org/entity/Q5083> .
+
+<http://example.org/nba/Sengun> owl:sameAs <http://www.wikidata.org/entity/Q105541460> .
+
+<http://example.org/nba/Sexton> owl:sameAs <http://www.wikidata.org/entity/Q10816799> .
+
+<http://example.org/nba/ShaedonSharpe> owl:sameAs <http://www.wikidata.org/entity/Q108435173> .
+
+<http://example.org/nba/ShaiGilgeousAlexander> owl:sameAs <http://www.wikidata.org/entity/Q32860369> .
+
+<http://example.org/nba/ShamsCharania> owl:sameAs <http://www.wikidata.org/entity/Q48816340> .
+
+<http://example.org/nba/ShaquilleONeal> owl:sameAs <http://www.wikidata.org/entity/Q169452> .
+
+<http://example.org/nba/SharifeCooper> owl:sameAs <http://www.wikidata.org/entity/Q65950890> .
+
+<http://example.org/nba/Sharpe> owl:sameAs <http://www.wikidata.org/entity/Q16883139> .
+
+<http://example.org/nba/Shead> owl:sameAs <http://www.wikidata.org/entity/Q36917679> .
+
+<http://example.org/nba/Sheppard> owl:sameAs <http://www.wikidata.org/entity/Q27429821> .
+
+<http://example.org/nba/Siakam> owl:sameAs <http://www.wikidata.org/entity/Q126911184> .
+
+<http://example.org/nba/Silver> owl:sameAs <http://www.wikidata.org/entity/Q1090> .
+
+<http://example.org/nba/Simons> owl:sameAs <http://www.wikidata.org/entity/Q18327304> .
+
+<http://example.org/nba/SionJames> owl:sameAs <http://www.wikidata.org/entity/Q106818165> .
+
+<http://example.org/nba/Slater> owl:sameAs <http://www.wikidata.org/entity/Q24232662> .
+
+<http://example.org/nba/Slovenia> owl:sameAs <http://www.wikidata.org/entity/Q215> .
+
+<http://example.org/nba/Smart> owl:sameAs <http://www.wikidata.org/entity/Q16883460> .
+
+<http://example.org/nba/Smith> owl:sameAs <http://www.wikidata.org/entity/Q1158446> .
+
+<http://example.org/nba/SoCal> owl:sameAs <http://www.wikidata.org/entity/Q844837> .
+
+<http://example.org/nba/Sochan> owl:sameAs <http://www.wikidata.org/entity/Q37311647> .
+
+<http://example.org/nba/Sonics> owl:sameAs <http://www.wikidata.org/entity/Q235326> .
+
+<http://example.org/nba/SouthBeach> owl:sameAs <http://www.wikidata.org/entity/Q186106> .
+
+<http://example.org/nba/SoutheastDivision> owl:sameAs <http://www.wikidata.org/entity/Q639928> .
+
+<http://example.org/nba/SpencerDinwiddie> owl:sameAs <http://www.wikidata.org/entity/Q16226957> .
+
+<http://example.org/nba/SpencerJones> owl:sameAs <http://www.wikidata.org/entity/Q110146840> .
+
+<http://example.org/nba/Spoelstra> owl:sameAs <http://www.wikidata.org/entity/Q16883689> .
+
+<http://example.org/nba/Spur> owl:sameAs <http://www.wikidata.org/entity/Q1400565> .
+
+<http://example.org/nba/Steph> owl:sameAs <http://www.wikidata.org/entity/Q4927100> .
+
+<http://example.org/nba/StephCurry> owl:sameAs <http://www.wikidata.org/entity/Q352159> .
+
+<http://example.org/nba/StephenASmith> owl:sameAs <http://www.wikidata.org/entity/Q117859483> .
+
+<http://example.org/nba/StephenCurry> owl:sameAs <http://www.wikidata.org/entity/Q352159> .
+
+<http://example.org/nba/StephonCastle> owl:sameAs <http://www.wikidata.org/entity/Q116407174> .
+
+<http://example.org/nba/StephonMarbury> owl:sameAs <http://www.wikidata.org/entity/Q319336> .
+
+<http://example.org/nba/SteveFrancis> owl:sameAs <http://www.wikidata.org/entity/Q7612584> .
+
+<http://example.org/nba/SteveKerr> owl:sameAs <http://www.wikidata.org/entity/Q523630> .
+
+<http://example.org/nba/SteveNash> owl:sameAs <http://www.wikidata.org/entity/Q192955> .
+
+<http://example.org/nba/StevenAdams> owl:sameAs <http://www.wikidata.org/entity/Q112373294> .
+
+<http://example.org/nba/Stewart> owl:sameAs <http://www.wikidata.org/entity/Q2801971> .
+
+<http://example.org/nba/Stojakovic> owl:sameAs <http://www.wikidata.org/entity/Q36886506> .
+
+<http://example.org/nba/Storm> owl:sameAs <http://www.wikidata.org/entity/Q16883888> .
+
+<http://example.org/nba/Suggs> owl:sameAs <http://www.wikidata.org/entity/Q2490265> .
+
+<http://example.org/nba/SummerLeague> owl:sameAs <http://www.wikidata.org/entity/Q7637497> .
+
+<http://example.org/nba/Suns> owl:sameAs <http://www.wikidata.org/entity/Q812> .
+
+<http://example.org/nba/SuperSonics> owl:sameAs <http://www.wikidata.org/entity/Q7644172> .
+
+<http://example.org/nba/TBD> owl:sameAs <http://www.wikidata.org/entity/Q174736> .
+
+<http://example.org/nba/TJMcConnell> owl:sameAs <http://www.wikidata.org/entity/Q16228369> .
+
+<http://example.org/nba/TOR> owl:sameAs <http://www.wikidata.org/entity/Q19818192> .
+
+<http://example.org/nba/TamarSlay> owl:sameAs <http://www.wikidata.org/entity/Q2282706> .
+
+<http://example.org/nba/TariEason> owl:sameAs <http://www.wikidata.org/entity/Q106818128> .
+
+<http://example.org/nba/TaylorHendricks> owl:sameAs <http://www.wikidata.org/entity/Q116186160> .
+
+<http://example.org/nba/TaylorJenkins> owl:sameAs <http://www.wikidata.org/entity/Q119555109> .
+
+<http://example.org/nba/TeamUSA> owl:sameAs <http://www.wikidata.org/entity/Q913651> .
+
+<http://example.org/nba/Teams> owl:sameAs <http://www.wikidata.org/entity/Q28406404> .
+
+<http://example.org/nba/TerrenceShannonJr> owl:sameAs <http://www.wikidata.org/entity/Q100921874> .
+
+<http://example.org/nba/Terry> owl:sameAs <http://www.wikidata.org/entity/Q10514602> .
+
+<http://example.org/nba/TerryRozier> owl:sameAs <http://www.wikidata.org/entity/Q20031584> .
+
+<http://example.org/nba/Texas> owl:sameAs <http://www.wikidata.org/entity/Q1439> .
+
+<http://example.org/nba/TheAllStar> owl:sameAs <http://www.wikidata.org/entity/Q4728323> .
+
+<http://example.org/nba/TheAssociatedPress> owl:sameAs <http://www.wikidata.org/entity/Q40469> .
+
+<http://example.org/nba/TheClevelandCavaliers> owl:sameAs <http://www.wikidata.org/entity/Q20710370> .
+
+<http://example.org/nba/TheDallasMavericks> owl:sameAs <http://www.wikidata.org/entity/Q114480291> .
+
+<http://example.org/nba/TheLosAngelesLakers> owl:sameAs <http://www.wikidata.org/entity/Q929032> .
+
+<http://example.org/nba/TheMemphisGrizzlies> owl:sameAs <http://www.wikidata.org/entity/Q28232986> .
+
+<http://example.org/nba/TheNewYorkKnicks> owl:sameAs <http://www.wikidata.org/entity/Q20657006> .
+
+<http://example.org/nba/TheOklahomaCityThunder> owl:sameAs <http://www.wikidata.org/entity/Q25000928> .
+
+<http://example.org/nba/ThePortlandTrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q5870252> .
+
+<http://example.org/nba/TheTrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q7769867> .
+
+<http://example.org/nba/Thibs> owl:sameAs <http://www.wikidata.org/entity/Q586579> .
+
+<http://example.org/nba/Thiero> owl:sameAs <http://www.wikidata.org/entity/Q106264524> .
+
+<http://example.org/nba/Thomas> owl:sameAs <http://www.wikidata.org/entity/Q16428906> .
+
+<http://example.org/nba/Thompson> owl:sameAs <http://www.wikidata.org/entity/Q2803433> .
+
+<http://example.org/nba/Thompsons> owl:sameAs <http://www.wikidata.org/entity/Q973251> .
+
+<http://example.org/nba/Thunder> owl:sameAs <http://www.wikidata.org/entity/Q37130935> .
+
+<http://example.org/nba/TiagoSplitter> owl:sameAs <http://www.wikidata.org/entity/Q352168> .
+
+<http://example.org/nba/TidjaneSalaun> owl:sameAs <http://www.wikidata.org/entity/Q122617931> .
+
+<http://example.org/nba/TimConnelly> owl:sameAs <http://www.wikidata.org/entity/Q14556969> .
+
+<http://example.org/nba/TimDuncan> owl:sameAs <http://www.wikidata.org/entity/Q193020> .
+
+<http://example.org/nba/TimHardawayJr> owl:sameAs <http://www.wikidata.org/entity/Q5256411> .
+
+<http://example.org/nba/TimMacMahon> owl:sameAs <http://www.wikidata.org/entity/Q125225568> .
+
+<http://example.org/nba/Timberwolves> owl:sameAs <http://www.wikidata.org/entity/Q170558> .
+
+<http://example.org/nba/Time> owl:sameAs <http://www.wikidata.org/entity/Q43297> .
+
+<http://example.org/nba/TobiasHarris> owl:sameAs <http://www.wikidata.org/entity/Q124667707> .
+
+<http://example.org/nba/TomThibodeau> owl:sameAs <http://www.wikidata.org/entity/Q586579> .
+
+<http://example.org/nba/Toronto> owl:sameAs <http://www.wikidata.org/entity/Q172> .
+
+<http://example.org/nba/TorontoRaptors> owl:sameAs <http://www.wikidata.org/entity/Q132880> .
+
+<http://example.org/nba/ToumaniCamara> owl:sameAs <http://www.wikidata.org/entity/Q100767165> .
+
+<http://example.org/nba/Towns> owl:sameAs <http://www.wikidata.org/entity/Q3140871> .
+
+<http://example.org/nba/Trae> owl:sameAs <http://www.wikidata.org/entity/Q99519795> .
+
+<http://example.org/nba/TraeYoung> owl:sameAs <http://www.wikidata.org/entity/Q29045112> .
+
+<http://example.org/nba/TrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q114503391> .
+
+<http://example.org/nba/TrajanLangdon> owl:sameAs <http://www.wikidata.org/entity/Q512356> .
+
+<http://example.org/nba/TrayceJacksonDavis> owl:sameAs <http://www.wikidata.org/entity/Q62597403> .
+
+<http://example.org/nba/TreJohnson> owl:sameAs <http://www.wikidata.org/entity/Q118918039> .
+
+<http://example.org/nba/TreJones> owl:sameAs <http://www.wikidata.org/entity/Q61677596> .
+
+<http://example.org/nba/TreMann> owl:sameAs <http://www.wikidata.org/entity/Q63351770> .
+
+<http://example.org/nba/TrendonWatford> owl:sameAs <http://www.wikidata.org/entity/Q63199388> .
+
+<http://example.org/nba/TreyMurphyIII> owl:sameAs <http://www.wikidata.org/entity/Q100889412> .
+
+<http://example.org/nba/TroyWeaver> owl:sameAs <http://www.wikidata.org/entity/Q100256794> .
+
+<http://example.org/nba/TuomasIisalo> owl:sameAs <http://www.wikidata.org/entity/Q4000509> .
+
+<http://example.org/nba/Turner> owl:sameAs <http://www.wikidata.org/entity/Q12804512> .
+
+<http://example.org/nba/TyJerome> owl:sameAs <http://www.wikidata.org/entity/Q61660709> .
+
+<http://example.org/nba/Tyler> owl:sameAs <http://www.wikidata.org/entity/Q2462622> .
+
+<http://example.org/nba/TylerHerro> owl:sameAs <http://www.wikidata.org/entity/Q61959905> .
+
+<http://example.org/nba/TylerKolek> owl:sameAs <http://www.wikidata.org/entity/Q108459600> .
+
+<http://example.org/nba/TyreseHaliburton> owl:sameAs <http://www.wikidata.org/entity/Q63190352> .
+
+<http://example.org/nba/TyreseMaxey> owl:sameAs <http://www.wikidata.org/entity/Q62860683> .
+
+<http://example.org/nba/TyronnLue> owl:sameAs <http://www.wikidata.org/entity/Q2447626> .
+
+<http://example.org/nba/Tyson> owl:sameAs <http://www.wikidata.org/entity/Q16618520> .
+
+<http://example.org/nba/TyusJones> owl:sameAs <http://www.wikidata.org/entity/Q16730417> .
+
+<http://example.org/nba/UCL> owl:sameAs <http://www.wikidata.org/entity/Q378134> .
+
+<http://example.org/nba/US> owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+<http://example.org/nba/UTAH> owl:sameAs <http://www.wikidata.org/entity/Q64260> .
+
+<http://example.org/nba/UdonisHaslem> owl:sameAs <http://www.wikidata.org/entity/Q514592> .
+
+<http://example.org/nba/Utah> owl:sameAs <http://www.wikidata.org/entity/Q829> .
+
+<http://example.org/nba/UtahJazz> owl:sameAs <http://www.wikidata.org/entity/Q170649> .
+
+<http://example.org/nba/VJEdgecombe> owl:sameAs <http://www.wikidata.org/entity/Q123533017> .
+
+<http://example.org/nba/Valanciunas> owl:sameAs <http://www.wikidata.org/entity/Q122205262> .
+
+<http://example.org/nba/VanVleet> owl:sameAs <http://www.wikidata.org/entity/Q7913736> .
+
+<http://example.org/nba/Vancouver> owl:sameAs <http://www.wikidata.org/entity/Q24639> .
+
+<http://example.org/nba/VancouverGrizzlies> owl:sameAs <http://www.wikidata.org/entity/Q3307390> .
+
+<http://example.org/nba/Vegas> owl:sameAs <http://www.wikidata.org/entity/Q23768> .
+
+<http://example.org/nba/VictorWembanyama> owl:sameAs <http://www.wikidata.org/entity/Q72941595> .
+
+<http://example.org/nba/VinceWilliamsJr> owl:sameAs <http://www.wikidata.org/entity/Q112652081> .
+
+<http://example.org/nba/VincentGoodwill> owl:sameAs <http://www.wikidata.org/entity/Q79057337> .
+
+<http://example.org/nba/VitKrejci> owl:sameAs <http://www.wikidata.org/entity/Q28873271> .
+
+<http://example.org/nba/Vucevic> owl:sameAs <http://www.wikidata.org/entity/Q4128457> .
+
+<http://example.org/nba/WNBA> owl:sameAs <http://www.wikidata.org/entity/Q2593221> .
+
+<http://example.org/nba/WSH> owl:sameAs <http://www.wikidata.org/entity/Q629029> .
+
+<http://example.org/nba/Wagner> owl:sameAs <http://www.wikidata.org/entity/Q2539239> .
+
+<http://example.org/nba/Walker> owl:sameAs <http://www.wikidata.org/entity/Q1158605> .
+
+<http://example.org/nba/WalkerKessler> owl:sameAs <http://www.wikidata.org/entity/Q106486426> .
+
+<http://example.org/nba/Wallace> owl:sameAs <http://www.wikidata.org/entity/Q5261248> .
+
+<http://example.org/nba/Walsh> owl:sameAs <http://www.wikidata.org/entity/Q56052283> .
+
+<http://example.org/nba/WalterClaytonJr> owl:sameAs <http://www.wikidata.org/entity/Q117262884> .
+
+<http://example.org/nba/Ware> owl:sameAs <http://www.wikidata.org/entity/Q26868863> .
+
+<http://example.org/nba/Washington> owl:sameAs <http://www.wikidata.org/entity/Q1223> .
+
+<http://example.org/nba/WashingtonState> owl:sameAs <http://www.wikidata.org/entity/Q1223> .
+
+<http://example.org/nba/WashingtonWizards> owl:sameAs <http://www.wikidata.org/entity/Q169165> .
+
+<http://example.org/nba/Watson> owl:sameAs <http://www.wikidata.org/entity/Q1184721> .
+
+<http://example.org/nba/Wembanyama> owl:sameAs <http://www.wikidata.org/entity/Q115214445> .
+
+<http://example.org/nba/Wemby> owl:sameAs <http://www.wikidata.org/entity/Q136790033> .
+
+<http://example.org/nba/WendellCarterJr> owl:sameAs <http://www.wikidata.org/entity/Q28925029> .
+
+<http://example.org/nba/Westbrook> owl:sameAs <http://www.wikidata.org/entity/Q16920898> .
+
+<http://example.org/nba/WesternConference> owl:sameAs <http://www.wikidata.org/entity/Q318389> .
+
+<http://example.org/nba/White> owl:sameAs <http://www.wikidata.org/entity/Q1215200> .
+
+<http://example.org/nba/Whitmore> owl:sameAs <http://www.wikidata.org/entity/Q2416432> .
+
+<http://example.org/nba/WillHardy> owl:sameAs <http://www.wikidata.org/entity/Q112827349> .
+
+<http://example.org/nba/WillRiley> owl:sameAs <http://www.wikidata.org/entity/Q130355819> .
+
+<http://example.org/nba/Williams> owl:sameAs <http://www.wikidata.org/entity/Q1688722> .
+
+<http://example.org/nba/Williamson> owl:sameAs <http://www.wikidata.org/entity/Q2581264> .
+
+<http://example.org/nba/WillieGreen> owl:sameAs <http://www.wikidata.org/entity/Q100982408> .
+
+<http://example.org/nba/Wizards> owl:sameAs <http://www.wikidata.org/entity/Q15298259> .
+
+<http://example.org/nba/Wolves> owl:sameAs <http://www.wikidata.org/entity/Q19500> .
+
+<http://example.org/nba/Wright> owl:sameAs <http://www.wikidata.org/entity/Q2594455> .
+
+<http://example.org/nba/Yabusele> owl:sameAs <http://www.wikidata.org/entity/Q108276135> .
+
+<http://example.org/nba/YahooSports> owl:sameAs <http://www.wikidata.org/entity/Q1151959> .
+
+<http://example.org/nba/Young> owl:sameAs <http://www.wikidata.org/entity/Q12678727> .
+
+<http://example.org/nba/YvesMissi> owl:sameAs <http://www.wikidata.org/entity/Q124370526> .
+
+<http://example.org/nba/ZaccharieRisacher> owl:sameAs <http://www.wikidata.org/entity/Q109669843> .
+
+<http://example.org/nba/ZachEdey> owl:sameAs <http://www.wikidata.org/entity/Q106817973> .
+
+<http://example.org/nba/ZachKleiman> owl:sameAs <http://www.wikidata.org/entity/Q106512898> .
+
+<http://example.org/nba/ZachLaVine> owl:sameAs <http://www.wikidata.org/entity/Q15908942> .
+
+<http://example.org/nba/ZiaireWilliams> owl:sameAs <http://www.wikidata.org/entity/Q65929905> .
+
+<http://example.org/nba/Zion> owl:sameAs <http://www.wikidata.org/entity/Q20001811> .
+
+<http://example.org/nba/ZionWilliamson> owl:sameAs <http://www.wikidata.org/entity/Q29165842> .
+
+<http://example.org/nba/Zubac> owl:sameAs <http://www.wikidata.org/entity/Q3576241> .
+
+<http://example.org/nba/max> owl:sameAs <http://www.wikidata.org/entity/Q16422172> .
+
+<http://example.org/nba/midseason> owl:sameAs <http://www.wikidata.org/entity/Q114500804> .
+
+<http://example.org/nba/rookie> owl:sameAs <http://www.wikidata.org/entity/Q48744320> .
+
+<http://example.org/nba/rookieball> owl:sameAs <http://www.wikidata.org/entity/Q22994154> .
+
+<http://example.org/nba/theAllStar> owl:sameAs <http://www.wikidata.org/entity/Q4728323> .
+
+<http://example.org/nba/theAllStarGame> owl:sameAs <http://www.wikidata.org/entity/Q112578192> .
+
+<http://example.org/nba/theBostonCeltics> owl:sameAs <http://www.wikidata.org/entity/Q5869142> .
+
+<http://example.org/nba/theBrooklynNets> owl:sameAs <http://www.wikidata.org/entity/Q18357897> .
+
+<http://example.org/nba/theCharlotteHornets> owl:sameAs <http://www.wikidata.org/entity/Q19878787> .
+
+<http://example.org/nba/theClevelandCavaliers> owl:sameAs <http://www.wikidata.org/entity/Q20710370> .
+
+<http://example.org/nba/theDallasMavericks> owl:sameAs <http://www.wikidata.org/entity/Q114480291> .
+
+<http://example.org/nba/theHoustonRockets> owl:sameAs <http://www.wikidata.org/entity/Q5869510> .
+
+<http://example.org/nba/theIndianaPacers> owl:sameAs <http://www.wikidata.org/entity/Q5869542> .
+
+<http://example.org/nba/theLosAngelesLakers> owl:sameAs <http://www.wikidata.org/entity/Q929032> .
+
+<http://example.org/nba/theMemphisGrizzlies> owl:sameAs <http://www.wikidata.org/entity/Q28232986> .
+
+<http://example.org/nba/theNewYorkKnicks> owl:sameAs <http://www.wikidata.org/entity/Q20657006> .
+
+<http://example.org/nba/theOklahomaCityThunder> owl:sameAs <http://www.wikidata.org/entity/Q25000928> .
+
+<http://example.org/nba/thePhiladelphia76ers> owl:sameAs <http://www.wikidata.org/entity/Q5870198> .
+
+<http://example.org/nba/thePortlandTrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q5870252> .
+
+<http://example.org/nba/theTrailBlazers> owl:sameAs <http://www.wikidata.org/entity/Q7769867> .
+
+<http://example.org/nba/theUnitedStates> owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+<http://example.org/nba/theUniversityofMiami> owl:sameAs <http://www.wikidata.org/entity/Q136534856> .
+
