@@ -1,0 +1,1213 @@
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TristandaSilva
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theSanAntonioSpurs
+SandroMamukelashvili	label	Sandro Mamukelashvili
+Detroit	type	Location
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	StephenCurry
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ZachKram
+JarrettAllen	label	Jarrett Allen
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JamalCollier
+WillStephenCurry	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Magic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BobbyMarks
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	type	Article
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Hawks
+N66e35d4a181e4a51989b90a58b6fda02	type	ClassAtom
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	JamesBlair
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	theAmericanAirlinesCenter
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	CedricCoward
+SAC	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Philadelphia
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ESPN
+PPG	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TimHardawayJr
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Rockets
+DefensivePlayer	label	Defensive Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NormanPowell
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	theKaseyaCenter
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	OklahomaCity
+ShamsCharania	type	Player
+Cleveland	type	Location
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	MARCUSSMART
+LAClippers	label	LA Clippers
+DenverNuggets	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Swensons
+CHI	label	CHI
+plus49	label	plus-4.9
+SGA	label	SGA
+ReedSheppard	type	Player
+UTAH	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	GS
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	KristapsPorzingis
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	LosAngeles
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MIN
+TheOklahomaCityThunder	label	The Oklahoma City Thunder
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	JJRedick
+JalenSuggs	label	Jalen Suggs
+Suns	type	Team
+N8d207df28dec4b8089dc6579b8df6966	type	Imp
+JaylonTyson	label	Jaylon Tyson
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	MattWilliams
+Detroit	label	Detroit
+TimBontemps	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	LukaDoncic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AnthonyBlack
+PHX	type	Team
+JT	label	JT
+JT	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Preseason
+TraeYoung	label	Trae Young
+Hamptons	label	Hamptons
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	MLE
+ESPNHarden	type	Player
+theBostonCeltics	label	the Boston Celtics
+TeamLoaded	label	Team Loaded
+Battier	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JamesHarden
+IvicaZubac	label	Ivica Zubac
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Wolves
+JordanGoodwin	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Milwaukee
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	GiannisAntetokounmpo
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Blazers
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Harden
+Boston	label	Boston
+SanAntonio	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AnthonyEdwards
+ScottFoster	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	ShaiGilgeousAlexander
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	OT
+BrianWindhorst	label	Brian Windhorst
+Milwaukee	type	Location
+OKC	label	OKC
+BillyDonovan	label	Billy Donovan
+Curry	label	Curry
+NickeilAlexanderWalker	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	WesternConference
+Terry	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SviMykhailiuk
+ESPNHarden	label	ESPN Harden
+IND	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Houston
+BenSaraf	label	Ben Saraf
+Hawks	type	Team
+RookieDerikQueen	label	Rookie Derik Queen
+Dallas	label	Dallas
+TOR	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Wembanyama
+JaylonTyson	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Robinson
+James,Bosh	label	James, Bosh
+JaredMcCain	label	Jared McCain
+Pacers	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	UnitedCenter
+Amagansett	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Williams
+OKC	type	Team
+MikeBrown	type	Player
+associatedWith	domain	Entity
+Bucks	label	Bucks
+JamalMurray	label	Jamal Murray
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	KyshawnGeorge
+Suns	label	Suns
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	StephenCurry
+NY	label	NY
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TraeYoung
+Kings	label	Kings
+Spoelstra	type	Team
+Sacramento	type	Location
+KevinGarnett	type	Player
+associatedWith	range	Entity
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MichaelCWright
+MIL	type	Location
+SamPresti	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Wizards
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	GoldenStateWarriors
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	IvicaZubac
+DylanCardwell	label	Dylan Cardwell
+MIN	type	Team
+MIL	type	Team
+HakeemOlajuwon	type	Player
+RookieDerikQueen	type	Player
+DwyaneWade	label	Dwyane Wade
+GilgeousAlexander	label	Gilgeous-Alexander
+theLosAngelesLakers	type	Team
+AaronGordon	label	Aaron Gordon
+LosAngeles	label	Los Angeles
+BennedictMathurin	label	Bennedict Mathurin
+Antetokounmpo	label	Antetokounmpo
+Blazers	label	Blazers
+Grizzlies	type	Player
+theLosAngelesLakers	label	the Los Angeles Lakers
+TyreseHaliburton	type	Team
+BillyDonovan	type	Player
+AustinReaves	type	Player
+GS	type	Team
+JamalCollier	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	VincentGoodwill
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Denver
+theClevelandCavaliers	label	the Cleveland Cavaliers
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theLAClippers
+Houston	label	Houston
+•Watch	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Spur
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Rookie
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	IndianaPacers
+TristanVukcevic	label	Tristan Vukcevic
+Location	label	Geographic Location
+N52981d9ba5bd4fe48c1fbf63d456880c	classPredicate	Player
+GilgeousAlexander	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	AtlantaHawks
+Terry	label	Terry
+KyshawnGeorge	type	Player
+Akron	label	Akron
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	RPG
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Toronto
+theRajonRondo	label	the Rajon Rondo
+BennedictMathurin	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	CLE
+DonovanMitchell	label	Donovan Mitchell
+OscarRobertson	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Washington
+Murray	type	Player
+Slater	label	Slater
+HOU	type	Team
+AndreDrummond	label	Andre Drummond
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Wright
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	KyleKuzma
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JaraceWalker
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MiamiHeat
+NikolaVucevic	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	GrantWilliams
+Phoenix	label	Phoenix
+ER	type	Team
+Kel'elWare	label	Kel'el Ware
+mentions	range	Entity
+Minnesota	label	Minnesota
+MichaelCWright	type	Player
+Curry	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theClevelandCavaliers
+NikolaVucevic	label	Nikola Vucevic
+Doncic	type	Location
+Clingan	type	Player
+Hyland	type	Player
+CHI	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	James,Bosh
+DaveMcMenamin	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Minnesota
+WendellCarter	label	Wendell Carter
+JT	type	Player
+Thunder	label	Thunder
+OT	type	Location
+POR	label	POR
+theOrlandoMagic	type	Team
+SanAntonio	label	San Antonio
+Miami	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JordanGoodwin
+ChicagoBulls	type	Team
+Boston	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SandroMamukelashvili
+JoeMazzulla	type	Player
+BonesHyland	type	Player
+MemphisGrizzlies	type	Team
+RayAllen	label	Ray Allen
+TreJones	type	Team
+TimConnelly	label	Tim Connelly
+MIA	label	MIA
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Thunder
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Portland
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Grizzlies
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Boston
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ReedSheppard
+AnthonySlater	label	Anthony Slater
+Chamberlain	type	Player
+Doncic	label	Doncic
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theDallasMavericks
+Cavaliers	label	Cavaliers
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	theSanAntonioSpurs
+GoldenStateWarriors	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Heat
+AnchorSteam	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MIA
+Wizards	type	Team
+VincentGoodwill	label	Vincent Goodwill
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	KobeBryant
+StephenASmith	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Edwards
+TylerHerro	label	Tyler Herro
+ATL	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ChrisBosh
+TyreseHaliburton	label	Tyrese Haliburton
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BenSaraf
+N8d207df28dec4b8089dc6579b8df6966	body	Nd9b903e2fa134cdaa3192df688f1bfdf
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TOR
+theNewYorkKnicks	label	the New York Knicks
+AnchorSteam	label	Anchor Steam
+RPG	type	Team
+Knicks	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	McMenamin
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	type	Article
+himCollier	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Download
+Milwaukee	label	Milwaukee
+DeandreAyton	type	Player
+RPG	label	RPG
+CedricCoward	label	Cedric Coward
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Suns
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	NewYork
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Holcombe
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DaveMcMenamin
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ACL
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	ESPN
+Timberwolves	label	Timberwolves
+DariusGarland	label	Darius Garland
+Location	type	Class
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NY
+Philadelphia	label	Philadelphia
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	VictorWembanyama
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	BostonCeltics
+AdrianDantley	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	HOU
+Orlando	type	Location
+theDetroitPistons	label	the Detroit Pistons
+Nb324bddb301b49d992cda3257e69eec2	argument2	t
+Jamesshot	label	James shot
+N071345cacef3459592ef98e4f7c5cb33	argument1	a
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	TeamLoaded
+Harden	type	Location
+CHA	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	LeBronJames
+JakobPoeltl	type	Player
+Vukcevic	label	Vukcevic
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Akron
+RealSports	type	Team
+NY	type	Team
+Cavs	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	KristapsPorzingis
+mentions	type	ObjectProperty
+MichaelCWright	label	Michael C. Wright
+daSilva	label	da Silva
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Spo
+Article	label	News Article
+daSilva	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JJRedick
+LeBronJames	type	Player
+theNewYorkKnicks	type	Team
+Amazon	type	Team
+Spo	type	Player
+Entity	type	Class
+SAS	type	Team
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	MichaelJordan
+Riley	label	Riley
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ChicagoBulls
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ScottFoster
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JoeMazzulla
+White	type	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Murray
+NormanPowell	label	Norman Powell
+NBAOntology	label	ESPN NBA Knowledge Graph Ontology
+NikolaJokic	label	Nikola Jokic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Bulls
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Time
+DavidHolcombe	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Wolves
+JeffGreen	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	theRajonRondo
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Slater
+StephenCurry	type	Player
+ShaiGilgeousAlexander	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Smart
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Robertson
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Bucks
+associatedWith	type	ObjectProperty
+Entity	label	General Entity
+Miami	label	Miami
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	DorianFinneySmith
+Preseason	label	Preseason
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	McCain
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	PelleLarsson
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	MemphisGrizzlies
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	DeandreAyton
+DPOY	type	Team
+Edwards	label	Edwards
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	KlayThompson
+Wemby	label	Wemby
+Chamberlain	label	Chamberlain
+DonovanClingan	label	Donovan Clingan
+LukaDoncic	label	Luka Doncic
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	AustinReaves
+SAS	label	SAS
+DET	type	Team
+KevinGarnett	label	Kevin Garnett
+Pacers	type	Team
+Doncic	type	Player
+MacMahon	label	MacMahon
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Thibs
+tieLaMarcusAldridge	type	Team
+IndianaPacers	type	Team
+PatRiley	type	Player
+BostonCeltics	type	Team
+SanAntonioSpurs	label	San Antonio Spurs
+Wright	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TimBontemps
+OscarRobertson	label	Oscar Robertson
+MacMahon	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BennedictMathurin
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SA
+TraeYoung	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Miami
+Heatles	type	Player
+Hawks	label	Hawks
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	PHI
+Rockets	label	Rockets
+JaysonTatum	label	Tatum
+AnthonyEdwards	type	Player
+DEN	label	DEN
+Wolves	label	Wolves
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Indiana
+KevinDurant	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MikeBrown
+ESPNResearch	type	Team
+NikolaJokic	type	Team
+NewOrleans	type	Location
+DavidHolcombe	label	David Holcombe
+CHA	label	CHA
+Holcombe	type	Player
+Murray	label	Murray
+theClevelandCavaliers	type	Team
+Amazon	label	Amazon
+SanFranciscoWarriors	label	San Francisco Warriors
+ColinKaepernick	label	Colin Kaepernick
+Slater	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Adebayo
+Wade	type	Player
+Nb324bddb301b49d992cda3257e69eec2	type	IndividualPropertyAtom
+LAL	label	LAL
+BaylorScheierman	label	Baylor Scheierman
+tieLaMarcusAldridge	label	tie LaMarcus Aldridge
+mentions	comment	Links a news article to an entity mentioned within the text.
+Magic	type	Team
+Powell	label	Powell
+ChrisFinch	label	Chris Finch
+Wembanyama	type	Team
+Location	subClassOf	Entity
+Entity	comment	A generic entity extracted from text.
+MichaelJordan	label	Michael Jordan
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DET
+Swensons	type	Team
+Bucks	type	Team
+SA	label	SA
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Vukcevic
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	JamalMurray
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AdemBona
+TeamLoaded	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	KevinGarnett
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Denver
+ZachKram	label	"Zach Kram
+"
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	WendellCarter
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Knicks
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	JarenJacksonJr
+theDallasMavericks	label	the Dallas Mavericks
+AnthonyBlack	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	CollinMurrayBoyles
+Bulls	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	PatRiley
+theNewOrleansPelicans	label	the New Orleans Pelicans
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Sacramento
+Jump	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Toronto
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Memphis
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Celtics
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	OKC
+BenSaraf	type	Player
+Spur	label	Spur
+JJRedick	type	Player
+N14d5911eafa34affa2419030fea9f17e	type	ClassAtom
+ReedSheppard	label	Reed Sheppard
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Wemby
+PatRiley	label	Pat Riley
+Wright	label	Wright
+N52981d9ba5bd4fe48c1fbf63d456880c	argument1	p
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Toronto
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Hendricks
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theMinnesotaTimberwolves
+GiannisAntetokounmpo	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SteveKerr
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Kram
+theLAClippers	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Cavaliers
+KevinDurant	label	Kevin Durant
+Nc1db72f524b148bb829582cab656a2a4	first	Nb324bddb301b49d992cda3257e69eec2
+thePistons,CelticsandKnicks	label	the Pistons, Celtics and Knicks
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MVP
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AnthonySlater
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Timberwolves
+theDallasMavericks	type	Team
+Kram	label	Kram
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	ChrisFinch
+JarenJacksonJr	label	Jaren Jackson Jr
+Leonard	label	Leonard
+FinalsMVP	label	Finals MVP
+UTAH	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	thePortlandTrailBlazers
+AnthonyEdwards	label	Anthony Edwards
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	SanAntonioSpurs
+AAU	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Bosh
+BostonCeltics	label	Boston Celtics
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	LAL
+Wolves	type	Team
+TylerHerro	type	Player
+JeffGreen	label	Jeff Green
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SamPresti
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	CLE
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JimmyButlerIII
+theMinnesotaTimberwolves	label	the Minnesota Timberwolves
+TaylorHendricks	label	Taylor Hendricks
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	BontempsWhich
+Riley	type	Team
+Edwards	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Wright
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NYK
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ShaiGilgeousAlexander
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ShamsCharania
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	DefensivePlayer
+Adebayo	label	Adebayo
+JimmyButlerIII	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MIL
+Chicago	label	Chicago
+Smart	label	Smart
+JamesHardenTyson	label	James Harden -- Tyson
+BamAdebayo	type	Player
+DonovanMitchell	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	UTAH
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Boston
+t	type	Variable
+AustinReaves	label	Austin Reaves
+MikeBrown	label	Mike Brown
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Grizzlies
+Reaves	label	Reaves
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Minnesota
+N059daf32f0be432bbb80a6c5318540a8	rest	Nc1db72f524b148bb829582cab656a2a4
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Boston
+ErikSpoelstra	type	Player
+Chamberlain	type	Team
+KobeBryant	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JalenWilliams
+DesmondBane	type	Player
+BobbyMarks	type	Player
+NBA	label	NBA
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	NBA
+ChrisBosh	label	Chris Bosh
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	TyWhite
+JeremyWoo	label	Jeremy Woo
+Blair	label	Blair
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Jamesshot
+Clingan	label	Clingan
+Reaves	type	Team
+MARCUSSMART	type	Player
+MIA	type	Team
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	DesmondBane
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ZachKram
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JaylonTyson
+Nb148e014957e48ef888afff7edda93d1	argument1	p
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Zubac
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Terry
+Grizzlies	label	Grizzlies
+CollinMurrayBoyles	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ReedSheppard
+ZachKram	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DonovanClingan
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	daSilva
+mentions	label	mentions
+mentions	domain	Article
+DocRivers	label	Doc Rivers
+BKN	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	JeffGreen
+Swensons	label	Swensons
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	JakeLaRavia
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	DwyaneWade
+DylanHarper	label	Dylan Harper
+SanAntonioSpurs	type	Team
+FinalsMVP	type	Player
+Denver	label	Denver
+OklahomaCity	type	Location
+James	label	James
+DraymondGreen	label	Draymond Green
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	DavidHolcombe
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Philadelphia
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BOS
+BamAdebayo	label	Bam Adebayo
+NYK	type	Team
+Spur	type	Team
+JoelEmbiid	label	Joel Embiid
+KyleKuzma	label	Kyle Kuzma
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ESPN
+PaoloBanchero	label	Paolo Banchero
+Article	type	Class
+ShaneBattier	label	Shane Battier
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AlexSarr
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Porzingis
+GSW	label	GSW
+Smart	type	Team
+MVP	type	Team
+UnitedCenter	type	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	AveryBradley
+JeremyWoo	type	Player
+Na7ca95b569d84f44934bcfd78302e909	first	Nb148e014957e48ef888afff7edda93d1
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	LeBronJames
+TOR	label	TOR
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	AdrianDantley
+Leonard	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ACL
+MVP	label	MVP
+Denver	type	Location
+TimHardawayJr	label	Tim Hardaway Jr
+JamesBlair	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MacMahon
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	JoelEmbiid
+Hendricks	label	Hendricks
+Thunder	type	Player
+p	type	Variable
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	JaMorant
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	PPG
+JakeLaRavia	label	Jake LaRavia
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	Chamberlain
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Dallas
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	LeBronJames
+JaMorant	label	Ja Morant
+McCain	label	McCain
+Indiana	label	Indiana
+AlexanderWalker	label	Alexander-Walker
+AveryBradley	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	SanAntonio
+MemphisGrizzlies	label	Memphis Grizzlies
+N071345cacef3459592ef98e4f7c5cb33	argument2	p
+BobbyMarks	label	Bobby Marks
+SteveKerr	label	Steve Kerr
+TimConnelly	type	Player
+Pacers	label	Pacers
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	IsaiahStewart
+thePistons,CelticsandKnicks	type	Team
+GrantWilliams	label	Grant Williams
+ColinKaepernick	type	Player
+Powell	type	Player
+Hendricks	type	Team
+PHI	label	PHI
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	theLosAngelesLakers
+JamesHarden	label	James Harden
+Eastern	type	Team
+Jones	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Chicago
+N66e35d4a181e4a51989b90a58b6fda02	classPredicate	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	KentaviousCaldwellPope
+KawhiLeonard	label	Kawhi Leonard
+MIN	label	MIN
+theBostonCeltics	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TimConnelly
+AlexSarr	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Larsson
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	DenverNuggets
+JaredMcCain	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Wolves
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Embiid
+PPG	label	PPG
+Player	subClassOf	Entity
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theLosAngelesLakers
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	BamAdebayo
+NewYork	type	Location
+TomThibodeau	label	Tom Thibodeau
+Phoenix	type	Location
+Dallas	type	Location
+NBAOntology	type	Ontology
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Nuggets
+Time	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ORL
+DallasMavericks	label	Dallas Mavericks
+MLE	label	MLE
+JasonTerry	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Houston
+HOU	label	HOU
+LosAngeles	type	Location
+Toronto	label	Toronto
+OklahomaCity	label	Oklahoma City
+DwyaneWade	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Redick
+theKaseyaCenter	label	the Kaseya Center
+JamesHardenTyson	type	Player
+JasonTerry	label	Jason Terry
+Heat	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DPOY
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Bucks
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TimMacMahon
+Cleveland	label	Cleveland
+MLE	type	Team
+ShaiGilgeousAlexander	label	Shai Gilgeous-Alexander
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Doncic
+TomThibodeau	type	Player
+N52981d9ba5bd4fe48c1fbf63d456880c	type	ClassAtom
+JamesHarden	type	Player
+Wizards	label	Wizards
+TheBigDipper	label	The Big Dipper
+N14d5911eafa34affa2419030fea9f17e	classPredicate	Article
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JeremyWoo
+GiannisAntetokounmpo	label	Giannis Antetokounmpo
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DesmondBane
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theBostonCeltics
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	James
+•Watch	label	• Watch
+Porzingis	label	Porzingis
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	SanFranciscoWarriors
+DocRivers	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theNewOrleansPelicans
+MARCUSSMART	label	MARCUS SMART
+Marcus	type	Location
+KentaviousCaldwellPope	type	Player
+TimBontemps	label	Tim Bontemps
+Nb148e014957e48ef888afff7edda93d1	type	IndividualPropertyAtom
+BonesHyland	label	Bones Hyland
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	James
+James,Bosh	type	Player
+PelleLarsson	label	Pelle Larsson
+LA	label	L.A
+DylanHarper	type	Player
+Cardwell	type	Team
+KristapsPorzingis	type	Team
+ER	label	ER
+Embiid	label	Embiid
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DocRivers
+RayAllen	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AlexanderWalker
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BonesHyland
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	HakeemOlajuwon
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Indiana
+theTorontoRaptors	type	Team
+Washington	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JoelEmbiid
+White	label	White
+KobeBryant	label	Kobe Bryant
+Toronto	type	Location
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	BamAdebayo
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Denver
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	PPG
+JaraceWalker	label	Jarace Walker
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	NikolaVucevic
+Spo	label	Spo
+AdrianDantley	label	Adrian Dantley
+MitchellRobinson	type	Player
+Nc1db72f524b148bb829582cab656a2a4	rest	N755bdfa11cb143b98848e6b49e27540c
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	type	Article
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JarenJacksonJr
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	RookieDerikQueen
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	•Watch
+Vukcevic	type	Player
+KawhiLeonard	type	Player
+WesternConference	label	Western Conference
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theNewYorkKnicks
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	LA
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Sacramento
+Zubac	label	Zubac
+DwightPowell	label	Dwight Powell
+Nb324bddb301b49d992cda3257e69eec2	argument1	a
+Team	label	Basketball Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Hyland
+TimMacMahon	type	Player
+Larsson	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Toronto
+ESPNResearch	label	ESPN Research
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	WillStephenCurry
+JamalCollier	label	Jamal Collier
+JoelEmbiid	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Knicks
+JakobPoeltl	label	Jakob Poeltl
+Portland	label	Portland
+ErikSpoelstra	label	Erik Spoelstra
+Zubac	type	Player
+ShaneBattier	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MichaelJordan
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	SanAntonioSpurs
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Pacers
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Rockets
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Wade
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Timberwolves
+UnitedCenter	label	United Center
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Amazon
+WesternConference	type	Team
+TaylorHendricks	type	Player
+theSanAntonioSpurs	type	Team
+Akron	type	Team
+James	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	AndreDrummond
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	CryptocomArena
+Washington	label	Washington
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Cardwell
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	NikolaJokic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DylanCardwell
+Player	label	Basketball Player
+CLE	type	Team
+Robinson	type	Player
+KennyAtkinson	label	Kenny Atkinson
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	AnthonySlater
+Williams	label	Williams
+MiamiHeat	label	Miami Heat
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	Adebayo
+Nb148e014957e48ef888afff7edda93d1	propertyPredicate	associatedWith
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	ErikSpoelstra
+VictorWembanyama	type	Player
+LAClippers	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MIN
+Jordan	label	Jordan
+Nb324bddb301b49d992cda3257e69eec2	propertyPredicate	mentions
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	LAL
+Kuzma	type	Location
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DwightPowell
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Thunder
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	AaronGordon
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	NBA
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Leonard
+SanFrancisco	type	Location
+SamPresti	label	Sam Presti
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BKN
+Kel'elWare	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Riley
+Embiid	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ShamsCharania
+BKN	label	BKN
+JamesBlair	label	James Blair
+KentaviousCaldwellPope	label	Kentavious Caldwell-Pope
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Milwaukee
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	GiannisAntetokounmpo
+TheDenverNuggets	label	The Denver Nuggets
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	TomThibodeau
+CryptocomArena	label	Crypto.com Arena
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	NBA
+KlayThompson	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	theBostonCeltics
+Allen	label	Allen
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	KevinDurant
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	AnthonyEdwards
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DariusGarland
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Allen
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	IND
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	plus49
+AtlantaHawks	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DonovanMitchell
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Battier
+Timberwolves	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JakeLaRavia
+ESPN	type	Team
+Saraf	type	Team
+McMenamin	label	McMenamin
+ChrisFinch	type	Player
+Nd9b903e2fa134cdaa3192df688f1bfdf	first	N14d5911eafa34affa2419030fea9f17e
+Hamptons	type	Team
+Williams	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	theOrlandoMagic
+ChrisBosh	type	Player
+ShamsCharania	label	Shams Charania
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Reaves
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JaredMcCain
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Suns
+Sacramento	label	Sacramento
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DaveMcMenamin
+Memphis	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Cleveland
+JaysonTatum	label	Jayson Tatum
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ESPNHarden
+Download	type	Player
+N1e7c79d27cbc474692f5e25e529f7319	rest	N059daf32f0be432bbb80a6c5318540a8
+N071345cacef3459592ef98e4f7c5cb33	type	IndividualPropertyAtom
+WendellCarter	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	CHA
+Thibs	label	Thibs
+theLAClippers	label	the LA Clippers
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	OscarRobertson
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TreJones
+Portland	type	Location
+SanFrancisco	label	San Francisco
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MEM
+ZachKram	label	Zach Kram
+Wembanyama	label	Wembanyama
+IndianaPacers	label	Indiana Pacers
+BontempsWhich	type	Player
+GrantWilliams	type	Player
+Celtics	label	Celtics
+Kings	type	Team
+Time	label	Time
+AdemBona	label	Adem Bona
+AaronGordon	type	Player
+AtlantaHawks	label	Atlanta Hawks
+Hyland	label	Hyland
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DEN
+GSW	type	Player
+Grizzlies	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Jones
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TristanVukcevic
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	ACL
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	RayAllen
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Jump
+NBA	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MacMahon
+UTAH	label	UTAH
+SanAntonioSpurs	label	Spurs
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	thePistons,CelticsandKnicks
+Bosh	type	Player
+Holcombe	label	Holcombe
+DefensivePlayer	type	Team
+WillStephenCurry	label	Will Stephen Curry
+McCain	type	Player
+AlexanderWalker	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	OklahomaCity
+JamalMurray	type	Player
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	NBA
+N059daf32f0be432bbb80a6c5318540a8	first	N52981d9ba5bd4fe48c1fbf63d456880c
+IvicaZubac	type	Player
+GS	label	GS
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Kuzma
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Chicago
+NickeilAlexanderWalker	label	Nickeil Alexander-Walker
+Cavaliers	type	Team
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	MVP
+theNewOrleansPelicans	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	VincentGoodwill
+Marcus	label	Marcus
+DenverNuggets	label	Denver Nuggets
+White	type	Player
+GoldenStateWarriors	label	Golden State Warriors
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	type	Article
+MattWilliams	label	Matt Williams
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	TyreseHaliburton
+Knicks	label	Knicks
+JalenWilliams	label	Jalen Williams
+Adebayo	type	Team
+Team	subClassOf	Entity
+DEN	type	Team
+Houston	type	Location
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	LukaDoncic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DylanHarper
+Allen	type	Player
+IsaiahStewart	type	Player
+Jones	label	Jones
+Magic	label	Magic
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Redick
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TheOklahomaCityThunder
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	DPOY
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theClevelandCavaliers
+Indiana	type	Location
+Redick	label	Redick
+plus49	type	Location
+PHI	type	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Doncic
+N66e35d4a181e4a51989b90a58b6fda02	argument1	t
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JaylenWells
+Kuzma	label	Kuzma
+JalenSuggs	type	Player
+Celtics	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	AustinReaves
+KennyAtkinson	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	NBA
+a	type	Variable
+Rockets	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	TimMacMahon
+Robertson	type	Player
+OT	label	OT
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	SAS
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BillyDonovan
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Phoenix
+NewOrleans	label	New Orleans
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	SGA
+theKaseyaCenter	type	Team
+CLE	label	CLE
+Download	label	Download
+theMinnesotaTimberwolves	type	Team
+Eastern	label	Eastern
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Saraf
+Redick	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Amagansett
+theOklahomaCityThunder	label	the Oklahoma City Thunder
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Edwards
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	TheDenverNuggets
+Na7ca95b569d84f44934bcfd78302e909	rest	nil
+KristapsPorzingis	label	Kristaps Porzingis
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MitchellRobinson
+StephenCurry	label	Stephen Curry
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Utah
+KyleKuzma	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	himCollier
+TristanVukcevic	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Eastern
+Nets	label	Nets
+theAmericanAirlinesCenter	label	the American Airlines Center
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	GSW
+theWashingtonWizards	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Miami
+LeBronJames	label	LeBron James
+thePortlandTrailBlazers	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theOklahomaCityThunder
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JakobPoeltl
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Orlando
+TheOklahomaCityThunder	type	Team
+theWashingtonWizards	label	the Washington Wizards
+Rookie	label	Rookie
+BOS	type	Team
+N755bdfa11cb143b98848e6b49e27540c	rest	nil
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	PaoloBanchero
+Kram	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	LA
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Detroit
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Heat
+MiamiHeat	type	Player
+Robertson	label	Robertson
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Powell
+Jamesshot	type	Player
+VictorWembanyama	label	Victor Wembanyama
+JakeLaRavia	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JamesHardenTyson
+AnthonySlater	type	Player
+Orlando	label	Orlando
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	theNewYorkKnicks
+Antetokounmpo	type	Location
+Heatles	label	Heatles
+ScottFoster	label	Scott Foster
+LA	type	Location
+TeamLoaded	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	AnchorSteam
+theSanAntonioSpurs	label	the San Antonio Spurs
+WashingtonWizards	type	Team
+TimHardawayJr	type	Player
+MitchellRobinson	label	Mitchell Robinson
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	BobbyMarks
+Lakers	label	Lakers
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	POR
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	AAU
+Lakers	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	type	Article
+SviMykhailiuk	type	Player
+theOrlandoMagic	label	the Orlando Magic
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MVP
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Timberwolves
+AdemBona	type	Player
+Robinson	label	Robinson
+N8d207df28dec4b8089dc6579b8df6966	head	Na7ca95b569d84f44934bcfd78302e909
+ORL	type	Team
+Preseason	type	Team
+Team	type	Class
+ACL	type	Team
+JJRedick	label	JJ Redick
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theTorontoRaptors
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BaylorScheierman
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	VictorWembanyama
+BrianWindhorst	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SanAntonioSpurs
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Pacers
+theRajonRondo	type	Team
+Heat	label	Heat
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	HOU
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	GilgeousAlexander
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SAC
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JaysonTatum
+TheDenverNuggets	type	Team
+JaylenWells	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	KristapsPorzingis
+DorianFinneySmith	label	Dorian Finney-Smith
+LukaDoncic	type	Player
+AlexSarr	label	Alex Sarr
+HakeemOlajuwon	label	Hakeem Olajuwon
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JJRedick
+SteveKerr	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	WashingtonWizards
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	CHI
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Lakers
+TristandaSilva	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Clingan
+Wade	label	Wade
+PaoloBanchero	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	TheBigDipper
+TimMacMahon	label	Tim MacMahon
+DPOY	label	DPOY
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ShaneBattier
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	JarrettAllen
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theDetroitPistons
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ColinKaepernick
+himCollier	label	him.-- Collier
+DorianFinneySmith	type	Player
+Amagansett	label	Amagansett
+SAC	label	SAC
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NBA
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	ShamsCharania
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Doncic
+SanFranciscoWarriors	type	Team
+NBAOntology	comment	An ontology defining players, teams, and articles from ESPN NBA news.
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Spoelstra
+theTorontoRaptors	label	the Toronto Raptors
+Memphis	label	Memphis
+KlayThompson	label	Klay Thompson
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Chamberlain
+MIL	label	MIL
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	KawhiLeonard
+JaraceWalker	type	Player
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	AnthonyEdwards
+Blazers	type	Team
+WashingtonWizards	label	Washington Wizards
+MEM	label	MEM
+McMenamin	type	Player
+JarrettAllen	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Cleveland
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Blair
+DylanCardwell	type	Player
+NormanPowell	type	Player
+Memphis	type	Location
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Reaves
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DonovanMitchell
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	ER
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	MichaelCWright
+AndreDrummond	type	Player
+DraymondGreen	type	Team
+AveryBradley	label	Avery Bradley
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	StephenCurry
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	ErikSpoelstra
+DaveMcMenamin	label	Dave McMenamin
+KyshawnGeorge	label	Kyshawn George
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	tieLaMarcusAldridge
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	ATL
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	KevinDurant
+Porzingis	type	Team
+CollinMurrayBoyles	label	Collin Murray-Boyles
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	TimBontemps
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	JT
+JoeMazzulla	label	Joe Mazzulla
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Kel'elWare
+Smart	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	SanAntonio
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TylerHerro
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NewOrleans
+ATL	label	ATL
+BOS	label	BOS
+IsaiahStewart	label	Isaiah Stewart
+Rookie	type	Player
+SGA	type	Team
+MIL	type	Player
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	Jordan
+ORL	label	ORL
+Bulls	label	Bulls
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	NickeilAlexanderWalker
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Wizards
+VincentGoodwill	type	Player
+CryptocomArena	type	Team
+TreJones	label	Tre Jones
+JimmyButlerIII	label	Jimmy Butler III
+Jump	label	Jump
+SA	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	DraymondGreen
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	TaylorHendricks
+N14d5911eafa34affa2419030fea9f17e	argument1	a
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Nets
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	KennyAtkinson
+BontempsWhich	label	"Bontemps
+Which"
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	DET
+DallasMavericks	type	Team
+ESPN	label	ESPN
+theOklahomaCityThunder	type	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Hamptons
+Jordan	type	Location
+JarenJacksonJr	type	Player
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	White
+Cardwell	label	Cardwell
+Nuggets	label	Nuggets
+theAmericanAirlinesCenter	type	Team
+AnthonyBlack	label	Anthony Black
+theDetroitPistons	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	JasonTerry
+N071345cacef3459592ef98e4f7c5cb33	propertyPredicate	mentions
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theLAClippers
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Heatles
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	JalenSuggs
+MEM	type	Team
+AAU	label	AAU
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Nuggets
+thePortlandTrailBlazers	label	the Portland Trail Blazers
+Spoelstra	label	Spoelstra
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	ESPNResearch
+DesmondBane	label	Desmond Bane
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	theLosAngelesLakers
+SviMykhailiuk	label	Svi Mykhailiuk
+LAL	type	Team
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	NikolaJokic
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	OKC
+NewYork	label	New York
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	LukaDoncic
+PHX	label	PHX
+POR	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Cavs
+Minnesota	type	Location
+Utah	label	Utah
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Kram
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	LAClippers
+Player	type	Class
+TyWhite	label	Ty White
+PelleLarsson	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	PHX
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Washington
+ChicagoBulls	label	Chicago Bulls
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	SanFrancisco
+Chicago	type	Location
+N755bdfa11cb143b98848e6b49e27540c	first	N66e35d4a181e4a51989b90a58b6fda02
+TheBigDipper	type	Team
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Portland
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	RealSports
+Utah	type	Location
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Curry
+Bosh	label	Bosh
+MichaelJordan	type	Player
+DwightPowell	type	Player
+CedricCoward	type	Player
+JaysonTatum	type	Player
+IND	label	IND
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	FinalsMVP
+ACL	label	ACL
+Nets	type	Team
+Philadelphia	type	Location
+nba-2025-2026-shai-gilgeous-alexander-wilt-chamberlain-oklahoma-city-thunder	mentions	AnthonyEdwards
+RealSports	label	Real Sports
+TristandaSilva	label	Tristan da Silva
+Blair	type	Player
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	NYK
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Minnesota
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	Antetokounmpo
+SandroMamukelashvili	type	Team
+DariusGarland	type	Player
+TyWhite	type	Player
+JordanGoodwin	label	Jordan Goodwin
+Cavs	label	Cavs
+Battier	label	Battier
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	MIL
+Harden	label	Harden
+DET	label	DET
+bam-adebayo-miami-heat-83-points-team-loaded-aau-high-school	mentions	theWashingtonWizards
+Nb148e014957e48ef888afff7edda93d1	argument2	t
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	BrianWindhorst
+nba-2025-2026-regular-season-final-month-giannis-jayson-tatum-more	mentions	James
+Saraf	label	Saraf
+NYK	label	NYK
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	Kings
+JaMorant	type	Player
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	Heat
+DonovanClingan	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	BamAdebayo
+Larsson	label	Larsson
+Nd9b903e2fa134cdaa3192df688f1bfdf	rest	N1e7c79d27cbc474692f5e25e529f7319
+StephenASmith	label	Stephen A. Smith
+Thibs	type	Team
+Wemby	type	Team
+27-straight-wins-lebron-james-most-dominant-stretch-career-heat-cavaliers-lakers-moments	mentions	DallasMavericks
+N1e7c79d27cbc474692f5e25e529f7319	first	N071345cacef3459592ef98e4f7c5cb33
+JaylenWells	label	Jaylen Wells
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	type	Article
+MattWilliams	type	Player
+nba-power-rankings-all-30-teams-unsung-hero-rookie-veteran-six-man-award	mentions	StephenASmith
+BaylorScheierman	type	Player
+Nuggets	type	Team
+glass-my-hand-los-angeles-lakers-guard-marcus-smart-return-punch	mentions	Marcus
+DeandreAyton	label	Deandre Ayton
+JalenWilliams	type	Player
